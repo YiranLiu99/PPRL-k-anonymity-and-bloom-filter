@@ -1,0 +1,8 @@
+1,Federal-gov,Government,*
+2,Local-gov,Government,*
+3,State-gov,Government,*
+4,Private,Non-Government,*
+5,Self-emp-inc,Non-Government,*
+6,Self-emp-not-inc,Non-Government,*
+7,Never-worked,Unemployed,*
+8,Without-pay,Unemployed,*
