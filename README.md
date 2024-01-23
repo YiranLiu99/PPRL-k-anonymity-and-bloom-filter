@@ -9,7 +9,7 @@ Hybrid Approach for Privacy-Preserving Record Linkage: Integrating k-Anonymity a
 5. The remaining candidate links constitute the matched results.
 
 ## Usage
-conda create --name conda-py10 --file conda_env_install.txt
-conda activate conda-py10
-cd run
-python main.py
+`conda create --name conda-py10 --file conda_env_install.txt` <br>
+`conda activate conda-py10` <br>
+`cd run` <br>
+`python main.py` <br>
