@@ -5,14 +5,15 @@ import pandas as pd
 
 
 class HierarchyTreeNode:
-    def __init__(self, value, parent=None, is_leaf=False, leaf_num=0, level=0):
+    def __init__(self, value, parent=None, is_leaf=False, leaf_id='0', level=0):
         self.value = value
         self.level = level
         self.is_leaf = is_leaf
         # leaf_num is 0 if it is not a leaf
-        self.leaf_num = leaf_num
+        self.leaf_id = leaf_id
         self.parent = parent
         self.children = []
+        self.covered_subtree_nodes = set()
 
     def __str__(self):
         return str(self.value)
@@ -25,16 +26,50 @@ class HierarchyTree:
     def __init__(self, file_path):
         df = pd.read_csv(file_path, header=None)
         self.hierarchy_type = file_path.split('_')[2]
-        self.node_dict = build_tree(df)
+        self.node_dict = build_tree(df)  # keys: values in data(since each value is unique in data), values: HierarchyTreeNode
         self.root = self.node_dict['*']
-        self.leaf_id_dict = self.build_leaf_id_dict()
+        self.leaf_id_dict = self.build_leaf_id_dict()  # keys are leaf_id, values are HierarchyTreeNode(leaves only)
+        self.save_covered_subtree_nodes()
+
+    def find_node(self, value):
+        """
+        find the node which value is value
+        :param value:
+        :return:
+        """
+        return self.node_dict[value]
 
     def build_leaf_id_dict(self):
         leaf_id_dict = {}
         for node in self.node_dict.values():
             if node.is_leaf:
-                leaf_id_dict[node.leaf_num] = node
+                leaf_id_dict[node.leaf_id] = node
         return leaf_id_dict
+
+    def save_covered_subtree_nodes(self):
+        """
+        save the covered subtree nodes for each node
+        :return:
+        """
+        for node in self.node_dict.values():
+            parent = node.parent
+            while parent:
+                parent.covered_subtree_nodes.add(node)
+                parent = parent.parent
+
+    def check_node_covered(self, node_value, check_node_value):
+        """
+        check if check_node is covered by node
+        :param node_value:
+        :param check_node_value:
+        :return:
+        """
+        node = self.node_dict[node_value]
+        check_node = self.node_dict[check_node_value]
+        if node in check_node.covered_subtree_nodes:
+            return True
+        else:
+            return False
 
     def find_common_ancestor(self, leaf1_id, leaf2_id):
         """
@@ -73,6 +108,7 @@ def build_tree(df):
         # Last column is root node. Second column are leaf nodes. First column are IDs for leaf nodes.
         row_list.reverse()
         for i, value in enumerate(row_list):
+            value = str(value)
             is_leaf = False
             # Second column are leaf nodes.
             if i == len(row_list) - 2:
@@ -84,12 +120,12 @@ def build_tree(df):
                     node_dict[value]
                 except KeyError:
                     new_node = HierarchyTreeNode(value=value, is_leaf=is_leaf, level=i + 1,
-                                                 parent=node_dict[row_list[i - 1]])
+                                                 parent=node_dict[str(row_list[i - 1])])
                     node_dict[value] = new_node
-                    node_dict[row_list[i - 1]].children.append(new_node)
+                    node_dict[str(row_list[i - 1])].children.append(new_node)
             else:  # this is the first column representing IDs for leaf nodes
                 id = value
-                node_dict[row_list[i - 1]].leaf_num = id
+                node_dict[str(row_list[i - 1])].leaf_id = id
     return node_dict
 
 

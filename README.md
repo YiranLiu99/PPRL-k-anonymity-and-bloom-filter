@@ -7,3 +7,9 @@ Hybrid Approach for Privacy-Preserving Record Linkage: Integrating k-Anonymity a
 3. Implement blocking to significantly reduce candidate links.
 4. Utilize a Bloom filter to compare the remaining candidate links. For this dataset, compare surname + given name.
 5. The remaining candidate links constitute the matched results.
+
+## Usage
+conda create --name conda-py10 --file conda_env_install.txt
+conda activate conda-py10
+cd run
+python main.py
