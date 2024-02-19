@@ -1,0 +1,1501 @@
+index,sex,age,race,marital-status,education,native-country,workclass,occupation
+689_b,*,17,*,Never-married,High School,United-States,Private,*
+799_b,*,17,*,Never-married,High School,United-States,Private,*
+124_b,*,17,*,Never-married,High School,United-States,Private,*
+254_b,*,17,*,Never-married,High School,United-States,Private,*
+1270_b,*,17,*,Never-married,High School,United-States,Private,*
+129_b,*,17,*,Never-married,High School,United-States,Non-Government,*
+58_b,*,17,*,Never-married,High School,United-States,Non-Government,*
+585_b,*,17,*,Never-married,High School,United-States,Non-Government,*
+890_b,*,17,*,Never-married,High School,United-States,*,*
+98_b,*,17,*,Never-married,High School,United-States,*,*
+1372_b,*,17,*,Never-married,High School,United-States,*,*
+863_b,*,16-20,White,Never-married,High School,United-States,*,*
+1304_b,*,16-20,White,Never-married,High School,United-States,*,*
+1404_b,*,16-20,White,Never-married,High School,United-States,*,*
+1093_b,*,18,*,spouse not present,*,United-States,Private,*
+1135_b,*,18,*,spouse not present,*,United-States,Private,*
+1172_b,*,18,*,spouse not present,*,United-States,Private,*
+902_b,*,18,White,Never-married,Some-college,United-States,Private,*
+223_b,*,18,White,Never-married,Some-college,United-States,Private,*
+264_b,*,18,White,Never-married,Some-college,United-States,Private,*
+1292_b,*,18,White,Never-married,High School,United-States,*,*
+490_b,*,18,White,Never-married,High School,United-States,*,*
+1179_b,*,18,White,Never-married,High School,United-States,*,*
+675_b,*,18,White,Never-married,High School,United-States,Private,*
+136_b,*,18,White,Never-married,High School,United-States,Private,*
+1274_b,*,18,White,Never-married,High School,United-States,Private,*
+985_b,*,18,White,Never-married,High School,United-States,Private,*
+408_b,*,18,White,Never-married,High School,United-States,Private,*
+994_b,Male,18,*,Never-married,High School,United-States,*,*
+591_b,Male,18,*,Never-married,High School,United-States,*,*
+1027_b,Male,18,*,Never-married,High School,United-States,*,*
+1088_b,*,16-20,White,Never-married,High School,United-States,Private,*
+810_b,*,16-20,White,Never-married,High School,United-States,Private,*
+615_b,*,16-20,White,Never-married,High School,United-States,Private,*
+892_b,*,19,White,Never-married,*,North America,Private,Nontechnical
+1197_b,*,19,White,Never-married,*,North America,Private,Nontechnical
+146_b,*,19,White,Never-married,*,North America,Private,Nontechnical
+1096_b,*,19,*,Never-married,High School,United-States,Private,*
+1064_b,*,19,*,Never-married,High School,United-States,Private,*
+1397_b,*,19,*,Never-married,High School,United-States,Private,*
+1057_b,*,19,*,Never-married,*,United-States,Private,*
+1235_b,*,19,*,Never-married,*,United-States,Private,*
+1203_b,*,19,*,Never-married,*,United-States,Private,*
+12_b,*,19,White,*,*,United-States,*,*
+1351_b,*,19,White,*,*,United-States,*,*
+381_b,*,19,White,*,*,United-States,*,*
+166_b,*,19,White,Never-married,*,United-States,Private,*
+597_b,*,19,White,Never-married,*,United-States,Private,*
+255_b,*,19,White,Never-married,*,United-States,Private,*
+793_b,*,19,White,Never-married,*,United-States,Private,*
+1123_b,*,19,White,Never-married,*,United-States,Private,*
+905_b,*,19,White,Never-married,*,United-States,Private,*
+949_b,*,19,White,Never-married,*,United-States,Private,*
+79_b,*,19,White,Never-married,*,United-States,Private,*
+376_b,*,19,White,Never-married,Some-college,United-States,Private,*
+852_b,*,19,White,Never-married,Some-college,United-States,Private,*
+317_b,*,19,White,Never-married,Some-college,United-States,Private,*
+1187_b,Male,19,*,Never-married,Some-college,*,Private,*
+216_b,Male,19,*,Never-married,Some-college,*,Private,*
+1132_b,Male,19,*,Never-married,Some-college,*,Private,*
+475_b,*,20,White,Never-married,*,United-States,*,*
+1319_b,*,20,White,Never-married,*,United-States,*,*
+778_b,*,20,White,Never-married,*,United-States,*,*
+769_b,*,20,White,Never-married,Some-college,United-States,Private,*
+1257_b,*,20,White,Never-married,Some-college,United-States,Private,*
+1043_b,*,20,White,Never-married,Some-college,United-States,Private,*
+247_b,*,20,White,Never-married,*,North America,Non-Government,Other
+598_b,*,20,White,Never-married,*,North America,Non-Government,Other
+1026_b,*,20,White,Never-married,*,North America,Non-Government,Other
+908_b,*,20,*,Never-married,Some-college,United-States,Private,Technical
+1447_b,*,20,*,Never-married,Some-college,United-States,Private,Technical
+943_b,*,20,*,Never-married,Some-college,United-States,Private,Technical
+1223_b,*,20,White,Never-married,*,*,Private,*
+826_b,*,20,White,Never-married,*,*,Private,*
+237_b,*,20,White,Never-married,*,*,Private,*
+593_b,*,20,White,Never-married,*,United-States,Private,*
+306_b,*,20,White,Never-married,*,United-States,Private,*
+1243_b,*,20,White,Never-married,*,United-States,Private,*
+104_b,*,20,Black,spouse not present,*,United-States,Private,*
+885_b,*,20,Black,spouse not present,*,United-States,Private,*
+87_b,*,20,Black,spouse not present,*,United-States,Private,*
+901_b,*,20,*,Never-married,*,United-States,Private,*
+957_b,*,20,*,Never-married,*,United-States,Private,*
+102_b,*,20,*,Never-married,*,United-States,Private,*
+1145_b,Male,20,White,Never-married,*,United-States,Private,*
+1188_b,Male,20,White,Never-married,*,United-States,Private,*
+82_b,Male,20,White,Never-married,*,United-States,Private,*
+651_b,*,*,*,Never-married,HS-grad,United-States,Private,*
+1204_b,*,*,*,Never-married,HS-grad,United-States,Private,*
+999_b,*,*,*,Never-married,HS-grad,United-States,Private,*
+646_b,*,21,White,Never-married,*,United-States,*,*
+512_b,*,21,White,Never-married,*,United-States,*,*
+1473_b,*,21,White,Never-married,*,United-States,*,*
+1357_b,Female,21,*,Never-married,*,North America,*,*
+1117_b,Female,21,*,Never-married,*,North America,*,*
+399_b,Female,21,*,Never-married,*,North America,*,*
+135_b,Female,21,*,Never-married,*,North America,*,*
+1180_b,Female,21,*,Never-married,*,North America,*,*
+1317_b,Female,21,White,Never-married,Some-college,United-States,Private,Other-service
+1025_b,Female,21,White,Never-married,Some-college,United-States,Private,Other-service
+688_b,Female,21,White,Never-married,Some-college,United-States,Private,Other-service
+499_b,*,21,*,*,*,United-States,Private,*
+814_b,*,21,*,*,*,United-States,Private,*
+859_b,*,21,*,*,*,United-States,Private,*
+801_b,*,21,White,Never-married,*,United-States,*,*
+383_b,*,21,White,Never-married,*,United-States,*,*
+297_b,*,21,White,Never-married,*,United-States,*,*
+402_b,*,21,White,*,*,North America,Private,*
+1495_b,*,21,White,*,*,North America,Private,*
+424_b,*,21,White,*,*,North America,Private,*
+1050_b,Female,21-25,White,Never-married,*,United-States,*,*
+715_b,Female,21-25,White,Never-married,*,United-States,*,*
+284_b,Female,21-25,White,Never-married,*,United-States,*,*
+742_b,Male,22,White,Never-married,High School,United-States,Private,*
+841_b,Male,22,White,Never-married,High School,United-States,Private,*
+1438_b,Male,22,White,Never-married,High School,United-States,Private,*
+774_b,*,22,White,Never-married,Undergraduate,United-States,*,*
+600_b,*,22,White,Never-married,Undergraduate,United-States,*,*
+1240_b,*,22,White,Never-married,Undergraduate,United-States,*,*
+876_b,*,22,*,Never-married,*,United-States,Private,Other
+1230_b,*,22,*,Never-married,*,United-States,Private,Other
+589_b,*,22,*,Never-married,*,United-States,Private,Other
+854_b,Male,22,*,Never-married,*,United-States,Private,*
+1290_b,Male,22,*,Never-married,*,United-States,Private,*
+370_b,Male,22,*,Never-married,*,United-States,Private,*
+379_b,*,22,*,Never-married,*,North America,Non-Government,*
+690_b,*,22,*,Never-married,*,North America,Non-Government,*
+1482_b,*,22,*,Never-married,*,North America,Non-Government,*
+158_b,*,22,White,Never-married,*,United-States,*,*
+170_b,*,22,White,Never-married,*,United-States,*,*
+899_b,*,22,White,Never-married,*,United-States,*,*
+54_b,*,22,White,Never-married,*,*,Non-Government,*
+1344_b,*,22,White,Never-married,*,*,Non-Government,*
+437_b,*,22,White,Never-married,*,*,Non-Government,*
+38_b,*,22,*,spouse not present,*,United-States,Private,*
+1291_b,*,22,*,spouse not present,*,United-States,Private,*
+368_b,*,22,*,spouse not present,*,United-States,Private,*
+815_b,*,22,White,spouse not present,HS-grad,*,Non-Government,*
+1363_b,*,22,White,spouse not present,HS-grad,*,Non-Government,*
+434_b,*,22,White,spouse not present,HS-grad,*,Non-Government,*
+561_b,*,21-25,White,*,High School,North America,Private,*
+787_b,*,21-25,White,*,High School,North America,Private,*
+117_b,*,21-25,White,*,High School,North America,Private,*
+855_b,*,21-25,White,*,High School,North America,Private,*
+1185_b,*,21-25,White,*,High School,North America,Private,*
+1080_b,*,23,*,Never-married,*,United-States,Private,*
+1296_b,*,23,*,Never-married,*,United-States,Private,*
+554_b,*,23,*,Never-married,*,United-States,Private,*
+580_b,Male,23,White,*,*,United-States,Non-Government,*
+849_b,Male,23,White,*,*,United-States,Non-Government,*
+1418_b,Male,23,White,*,*,United-States,Non-Government,*
+1384_b,Male,23,White,*,*,United-States,Private,*
+332_b,Male,23,White,*,*,United-States,Private,*
+416_b,Male,23,White,*,*,United-States,Private,*
+1394_b,*,23,White,Never-married,*,United-States,Private,*
+388_b,*,23,White,Never-married,*,United-States,Private,*
+128_b,*,23,White,Never-married,*,United-States,Private,*
+393_b,*,23,*,Never-married,*,United-States,Private,*
+403_b,*,23,*,Never-married,*,United-States,Private,*
+1442_b,*,23,*,Never-married,*,United-States,Private,*
+448_b,*,23,White,Never-married,*,North America,Non-Government,*
+1100_b,*,23,White,Never-married,*,North America,Non-Government,*
+858_b,*,23,White,Never-married,*,North America,Non-Government,*
+792_b,*,23,*,Never-married,*,United-States,Private,*
+738_b,*,23,*,Never-married,*,United-States,Private,*
+652_b,*,23,*,Never-married,*,United-States,Private,*
+744_b,*,23,*,Never-married,*,United-States,Private,*
+948_b,*,23,*,Never-married,*,United-States,Private,*
+805_b,*,23,*,Never-married,*,United-States,Private,*
+576_b,*,23,White,spouse not present,*,North America,*,*
+746_b,*,23,White,spouse not present,*,North America,*,*
+1152_b,*,23,White,spouse not present,*,North America,*,*
+796_b,*,23,*,*,*,United-States,Private,*
+1129_b,*,23,*,*,*,United-States,Private,*
+1091_b,*,23,*,*,*,United-States,Private,*
+521_b,*,23,White,Never-married,*,United-States,Private,*
+979_b,*,23,White,Never-married,*,United-States,Private,*
+159_b,*,23,White,Never-married,*,United-States,Private,*
+411_b,*,23,White,spouse not present,*,United-States,Private,*
+133_b,*,23,White,spouse not present,*,United-States,Private,*
+552_b,*,23,White,spouse not present,*,United-States,Private,*
+1190_b,*,24,White,*,*,United-States,*,*
+240_b,*,24,White,*,*,United-States,*,*
+562_b,*,24,White,*,*,United-States,*,*
+290_b,*,24,*,spouse not present,*,United-States,*,*
+1169_b,*,24,*,spouse not present,*,United-States,*,*
+488_b,*,24,*,spouse not present,*,United-States,*,*
+1106_b,*,24,White,Never-married,Higher education,United-States,*,*
+1059_b,*,24,White,Never-married,Higher education,United-States,*,*
+929_b,*,24,White,Never-married,Higher education,United-States,*,*
+1282_b,*,24,White,Never-married,Higher education,United-States,*,*
+145_b,*,24,White,Never-married,Higher education,United-States,*,*
+1402_b,*,24,White,*,*,United-States,Private,*
+588_b,*,24,White,*,*,United-States,Private,*
+167_b,*,24,White,*,*,United-States,Private,*
+785_b,*,24,White,Never-married,*,United-States,Private,Nontechnical
+711_b,*,24,White,Never-married,*,United-States,Private,Nontechnical
+1478_b,*,24,White,Never-married,*,United-States,Private,Nontechnical
+323_b,Male,24,*,*,*,North America,Private,Nontechnical
+265_b,Male,24,*,*,*,North America,Private,Nontechnical
+592_b,Male,24,*,*,*,North America,Private,Nontechnical
+1237_b,*,24,White,Never-married,*,United-States,*,Technical
+975_b,*,24,White,Never-married,*,United-States,*,Technical
+149_b,*,24,White,Never-married,*,United-States,*,Technical
+1377_b,*,24,White,Never-married,High School,North America,Private,*
+655_b,*,24,White,Never-married,High School,North America,Private,*
+429_b,*,24,White,Never-married,High School,North America,Private,*
+1040_b,*,24,White,*,*,United-States,*,Other
+1234_b,*,24,White,*,*,United-States,*,Other
+48_b,*,24,White,*,*,United-States,*,Other
+1058_b,*,24,White,*,*,North America,Private,Other
+131_b,*,24,White,*,*,North America,Private,Other
+1228_b,*,24,White,*,*,North America,Private,Other
+1087_b,*,24,White,*,*,United-States,Non-Government,*
+396_b,*,24,White,*,*,United-States,Non-Government,*
+958_b,*,24,White,*,*,United-States,Non-Government,*
+269_b,*,24,*,Never-married,Undergraduate,*,Private,*
+1374_b,*,24,*,Never-married,Undergraduate,*,Private,*
+924_b,*,24,*,Never-married,Undergraduate,*,Private,*
+550_b,*,24,White,*,High School,United-States,Private,*
+1239_b,*,24,White,*,High School,United-States,Private,*
+1031_b,*,24,White,*,High School,United-States,Private,*
+314_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+674_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+1400_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+438_b,*,25,White,*,*,United-States,Private,Nontechnical
+880_b,*,25,White,*,*,United-States,Private,Nontechnical
+480_b,*,25,White,*,*,United-States,Private,Nontechnical
+1333_b,Male,25,*,Never-married,*,United-States,*,*
+612_b,Male,25,*,Never-married,*,United-States,*,*
+623_b,Male,25,*,Never-married,*,United-States,*,*
+645_b,Male,25,White,Never-married,*,North America,Private,*
+1341_b,Male,25,White,Never-married,*,North America,Private,*
+414_b,Male,25,White,Never-married,*,North America,Private,*
+865_b,*,25,*,*,*,North America,*,*
+614_b,*,25,*,*,*,North America,*,*
+374_b,*,25,*,*,*,North America,*,*
+721_b,*,25,*,*,*,North America,*,*
+67_b,*,25,*,*,*,North America,*,*
+32_b,Male,25,*,spouse not present,*,United-States,Private,*
+51_b,Male,25,*,spouse not present,*,United-States,Private,*
+1207_b,Male,25,*,spouse not present,*,United-States,Private,*
+37_b,*,25,White,*,*,United-States,Private,*
+653_b,*,25,White,*,*,United-States,Private,*
+1013_b,*,25,White,*,*,United-States,Private,*
+1094_b,Male,25,*,*,*,United-States,Private,*
+903_b,Male,25,*,*,*,United-States,Private,*
+89_b,Male,25,*,*,*,United-States,Private,*
+1460_b,*,25,White,spouse not present,Higher education,United-States,Private,Other
+888_b,*,25,White,spouse not present,Higher education,United-States,Private,Other
+1048_b,*,25,White,spouse not present,Higher education,United-States,Private,Other
+1104_b,*,25,White,spouse not present,*,United-States,Private,*
+818_b,*,25,White,spouse not present,*,United-States,Private,*
+954_b,*,25,White,spouse not present,*,United-States,Private,*
+97_b,Male,25,White,spouse not present,Undergraduate,United-States,*,Nontechnical
+466_b,Male,25,White,spouse not present,Undergraduate,United-States,*,Nontechnical
+1037_b,Male,25,White,spouse not present,Undergraduate,United-States,*,Nontechnical
+781_b,*,25,White,*,*,United-States,*,*
+447_b,*,25,White,*,*,United-States,*,*
+406_b,*,25,White,*,*,United-States,*,*
+134_b,Male,25,White,Never-married,High School,United-States,Private,*
+1327_b,Male,25,White,Never-married,High School,United-States,Private,*
+1496_b,Male,25,White,Never-married,High School,United-States,Private,*
+479_b,Female,25,White,*,*,United-States,Private,*
+1273_b,Female,25,White,*,*,United-States,Private,*
+253_b,Female,25,White,*,*,United-States,Private,*
+1198_b,*,26,White,*,*,United-States,Private,*
+873_b,*,26,White,*,*,United-States,Private,*
+821_b,*,26,White,*,*,United-States,Private,*
+292_b,*,26,*,*,*,United-States,*,*
+831_b,*,26,*,*,*,United-States,*,*
+485_b,*,26,*,*,*,United-States,*,*
+1412_b,*,26,*,Never-married,*,*,Private,Technical
+504_b,*,26,*,Never-married,*,*,Private,Technical
+630_b,*,26,*,Never-married,*,*,Private,Technical
+71_b,Female,26,*,spouse not present,*,North America,Private,*
+638_b,Female,26,*,spouse not present,*,North America,Private,*
+57_b,Female,26,*,spouse not present,*,North America,Private,*
+296_b,Male,26,White,spouse not present,*,United-States,Non-Government,*
+218_b,Male,26,White,spouse not present,*,United-States,Non-Government,*
+441_b,Male,26,White,spouse not present,*,United-States,Non-Government,*
+456_b,*,26,*,*,*,United-States,*,Other
+683_b,*,26,*,*,*,United-States,*,Other
+326_b,*,26,*,*,*,United-States,*,Other
+1378_b,*,26,*,*,*,United-States,*,Other
+119_b,*,26,*,*,*,United-States,*,Other
+63_b,*,26,White,Never-married,*,United-States,Non-Government,*
+455_b,*,26,White,Never-married,*,United-States,Non-Government,*
+451_b,*,26,White,Never-married,*,United-States,Non-Government,*
+184_b,*,26,*,*,*,United-States,Private,*
+409_b,*,26,*,*,*,United-States,Private,*
+776_b,*,26,*,*,*,United-States,Private,*
+966_b,Male,26,White,*,*,North America,*,*
+1157_b,Male,26,White,*,*,North America,*,*
+534_b,Male,26,White,*,*,North America,*,*
+103_b,Male,26,White,*,Bachelors,United-States,*,Technical
+161_b,Male,26,White,*,Bachelors,United-States,*,Technical
+939_b,Male,26,White,*,Bachelors,United-States,*,Technical
+1463_b,Male,26,White,*,*,*,*,*
+1138_b,Male,26,White,*,*,*,*,*
+181_b,Male,26,White,*,*,*,*,*
+446_b,*,26,*,Never-married,*,United-States,Private,Other
+517_b,*,26,*,Never-married,*,United-States,Private,Other
+1041_b,*,26,*,Never-married,*,United-States,Private,Other
+244_b,*,26,White,*,HS-grad,United-States,Private,*
+993_b,*,26,White,*,HS-grad,United-States,Private,*
+151_b,*,26,White,*,HS-grad,United-States,Private,*
+662_b,*,26-30,White,Never-married,Higher education,United-States,Private,*
+1246_b,*,26-30,White,Never-married,Higher education,United-States,Private,*
+1266_b,*,26-30,White,Never-married,Higher education,United-States,Private,*
+1494_b,Male,27,*,Never-married,*,United-States,*,*
+74_b,Male,27,*,Never-married,*,United-States,*,*
+294_b,Male,27,*,Never-married,*,United-States,*,*
+433_b,*,27,*,spouse not present,*,United-States,*,*
+1046_b,*,27,*,spouse not present,*,United-States,*,*
+202_b,*,27,*,spouse not present,*,United-States,*,*
+1258_b,*,27,*,Never-married,*,*,*,*
+1028_b,*,27,*,Never-married,*,*,*,*
+734_b,*,27,*,Never-married,*,*,*,*
+432_b,*,27,*,Never-married,*,United-States,*,Nontechnical
+127_b,*,27,*,Never-married,*,United-States,*,Nontechnical
+1012_b,*,27,*,Never-married,*,United-States,*,Nontechnical
+700_b,*,27,*,*,*,United-States,Private,*
+1409_b,*,27,*,*,*,United-States,Private,*
+548_b,*,27,*,*,*,United-States,Private,*
+1034_b,*,27,*,spouse not present,*,United-States,*,*
+1247_b,*,27,*,spouse not present,*,United-States,*,*
+1322_b,*,27,*,spouse not present,*,United-States,*,*
+583_b,*,27,*,*,*,United-States,Non-Government,*
+896_b,*,27,*,*,*,United-States,Non-Government,*
+1432_b,*,27,*,*,*,United-States,Non-Government,*
+1121_b,*,27,*,*,*,United-States,Non-Government,*
+916_b,*,27,*,*,*,United-States,Non-Government,*
+241_b,Male,27,White,*,*,United-States,*,*
+1182_b,Male,27,White,*,*,United-States,*,*
+1283_b,Male,27,White,*,*,United-States,*,*
+1099_b,*,27,White,Never-married,*,North America,Private,*
+1421_b,*,27,White,Never-married,*,North America,Private,*
+1426_b,*,27,White,Never-married,*,North America,Private,*
+1423_b,*,27,*,Never-married,*,*,*,*
+1162_b,*,27,*,Never-married,*,*,*,*
+307_b,*,27,*,Never-married,*,*,*,*
+123_b,Male,27,White,Married-civ-spouse,*,United-States,Non-Government,Craft-repair
+782_b,Male,27,White,Married-civ-spouse,*,United-States,Non-Government,Craft-repair
+1119_b,Male,27,White,Married-civ-spouse,*,United-States,Non-Government,Craft-repair
+988_b,*,27,*,*,*,United-States,Private,*
+575_b,*,27,*,*,*,United-States,Private,*
+1000_b,*,27,*,*,*,United-States,Private,*
+1170_b,*,27,*,*,Undergraduate,*,*,*
+803_b,*,27,*,*,Undergraduate,*,*,*
+1134_b,*,27,*,*,Undergraduate,*,*,*
+556_b,*,27,White,Never-married,*,North America,*,*
+471_b,*,27,White,Never-married,*,North America,*,*
+199_b,*,27,White,Never-married,*,North America,*,*
+1483_b,*,28,White,*,*,United-States,*,*
+1070_b,*,28,White,*,*,United-States,*,*
+1200_b,*,28,White,*,*,United-States,*,*
+75_b,Male,28,*,Married-civ-spouse,*,United-States,Non-Government,*
+1469_b,Male,28,*,Married-civ-spouse,*,United-States,Non-Government,*
+352_b,Male,28,*,Married-civ-spouse,*,United-States,Non-Government,*
+320_b,*,28,*,spouse not present,High School,*,*,*
+659_b,*,28,*,spouse not present,High School,*,*,*
+513_b,*,28,*,spouse not present,High School,*,*,*
+1307_b,*,28,White,*,*,United-States,Private,*
+355_b,*,28,White,*,*,United-States,Private,*
+1441_b,*,28,White,*,*,United-States,Private,*
+510_b,*,28,*,Never-married,Bachelors,United-States,*,Other
+1403_b,*,28,*,Never-married,Bachelors,United-States,*,Other
+1390_b,*,28,*,Never-married,Bachelors,United-States,*,Other
+157_b,Male,28,White,*,*,North America,*,*
+725_b,Male,28,White,*,*,North America,*,*
+19_b,Male,28,White,*,*,North America,*,*
+478_b,Female,28,*,*,*,*,*,*
+52_b,Female,28,*,*,*,*,*,*
+1346_b,Female,28,*,*,*,*,*,*
+587_b,*,28,*,*,*,United-States,Private,*
+679_b,*,28,*,*,*,United-States,Private,*
+1373_b,*,28,*,*,*,United-States,Private,*
+203_b,*,28,*,*,*,United-States,Private,*
+870_b,*,28,*,*,*,United-States,Private,*
+404_b,*,28,White,*,*,United-States,Private,*
+1480_b,*,28,White,*,*,United-States,Private,*
+544_b,*,28,White,*,*,United-States,Private,*
+551_b,*,28,*,*,*,United-States,*,*
+1128_b,*,28,*,*,*,United-States,*,*
+465_b,*,28,*,*,*,United-States,*,*
+1334_b,*,28,*,spouse not present,HS-grad,United-States,Private,Nontechnical
+875_b,*,28,*,spouse not present,HS-grad,United-States,Private,Nontechnical
+1321_b,*,28,*,spouse not present,HS-grad,United-States,Private,Nontechnical
+804_b,*,29,*,*,Higher education,North America,*,*
+963_b,*,29,*,*,Higher education,North America,*,*
+1450_b,*,29,*,*,Higher education,North America,*,*
+978_b,*,29,*,*,HS-grad,United-States,*,*
+953_b,*,29,*,*,HS-grad,United-States,*,*
+327_b,*,29,*,*,HS-grad,United-States,*,*
+1011_b,*,29,White,Married-civ-spouse,Higher education,United-States,Private,*
+779_b,*,29,White,Married-civ-spouse,Higher education,United-States,Private,*
+1329_b,*,29,White,Married-civ-spouse,Higher education,United-States,Private,*
+494_b,*,29,White,*,*,*,*,*
+1393_b,*,29,White,*,*,*,*,*
+141_b,*,29,White,*,*,*,*,*
+1060_b,*,29,White,*,*,*,*,*
+511_b,*,29,White,*,*,*,*,*
+530_b,*,29,*,Never-married,*,United-States,*,*
+800_b,*,29,*,Never-married,*,United-States,*,*
+1340_b,*,29,*,Never-married,*,United-States,*,*
+1445_b,Male,29,White,*,*,United-States,Private,*
+287_b,Male,29,White,*,*,United-States,Private,*
+861_b,Male,29,White,*,*,United-States,Private,*
+928_b,Male,29,*,*,High School,United-States,Non-Government,Other
+405_b,Male,29,*,*,High School,United-States,Non-Government,Other
+337_b,Male,29,*,*,High School,United-States,Non-Government,Other
+266_b,*,29,*,*,*,*,*,Technical
+678_b,*,29,*,*,*,*,*,Technical
+1362_b,*,29,*,*,*,*,*,Technical
+152_b,*,29,White,*,*,United-States,Private,*
+712_b,*,29,White,*,*,United-States,Private,*
+952_b,*,29,White,*,*,United-States,Private,*
+1435_b,*,26-30,*,spouse not present,*,*,*,*
+1376_b,*,26-30,*,spouse not present,*,*,*,*
+1303_b,*,26-30,*,spouse not present,*,*,*,*
+537_b,*,30,White,*,*,North America,Non-Government,*
+1330_b,*,30,White,*,*,North America,Non-Government,*
+114_b,*,30,White,*,*,North America,Non-Government,*
+90_b,*,30,White,*,*,North America,Non-Government,*
+976_b,*,30,White,*,*,North America,Non-Government,*
+472_b,*,30,White,spouse not present,Undergraduate,United-States,Private,*
+473_b,*,30,White,spouse not present,Undergraduate,United-States,Private,*
+428_b,*,30,White,spouse not present,Undergraduate,United-States,Private,*
+345_b,Male,30,White,Married-civ-spouse,High School,*,*,*
+717_b,Male,30,White,Married-civ-spouse,High School,*,*,*
+518_b,Male,30,White,Married-civ-spouse,High School,*,*,*
+213_b,*,30,White,*,*,United-States,Private,*
+1278_b,*,30,White,*,*,United-States,Private,*
+641_b,*,30,White,*,*,United-States,Private,*
+168_b,Male,30,White,Married-civ-spouse,*,United-States,Private,*
+1380_b,Male,30,White,Married-civ-spouse,*,United-States,Private,*
+1331_b,Male,30,White,Married-civ-spouse,*,United-States,Private,*
+101_b,*,30,White,*,Undergraduate,United-States,*,Nontechnical
+1201_b,*,30,White,*,Undergraduate,United-States,*,Nontechnical
+1256_b,*,30,White,*,Undergraduate,United-States,*,Nontechnical
+498_b,Male,30,*,*,*,United-States,Private,*
+557_b,Male,30,*,*,*,United-States,Private,*
+66_b,Male,30,*,*,*,United-States,Private,*
+898_b,Male,30,White,spouse present,HS-grad,North America,*,*
+1217_b,Male,30,White,spouse present,HS-grad,North America,*,*
+1487_b,Male,30,White,spouse present,HS-grad,North America,*,*
+42_b,*,30,White,*,Undergraduate,United-States,Private,*
+680_b,*,30,White,*,Undergraduate,United-States,Private,*
+824_b,*,30,White,*,Undergraduate,United-States,Private,*
+747_b,*,30,White,*,*,United-States,Private,Adm-clerical
+299_b,*,30,White,*,*,United-States,Private,Adm-clerical
+391_b,*,30,White,*,*,United-States,Private,Adm-clerical
+594_b,*,30,*,*,*,United-States,*,*
+635_b,*,30,*,*,*,United-States,*,*
+533_b,*,30,*,*,*,United-States,*,*
+728_b,*,31,*,*,High School,North America,Private,*
+421_b,*,31,*,*,High School,North America,Private,*
+65_b,*,31,*,*,High School,North America,Private,*
+1456_b,Male,31,*,Married-civ-spouse,*,*,*,*
+349_b,Male,31,*,Married-civ-spouse,*,*,*,*
+1095_b,Male,31,*,Married-civ-spouse,*,*,*,*
+1001_b,Male,31,White,*,*,United-States,Non-Government,Nontechnical
+375_b,Male,31,White,*,*,United-States,Non-Government,Nontechnical
+1101_b,Male,31,White,*,*,United-States,Non-Government,Nontechnical
+422_b,Male,31,*,*,Higher education,United-States,Private,*
+1008_b,Male,31,*,*,Higher education,United-States,Private,*
+784_b,Male,31,*,*,Higher education,United-States,Private,*
+527_b,*,31,*,*,*,United-States,Private,*
+1252_b,*,31,*,*,*,United-States,Private,*
+2_b,*,31,*,*,*,United-States,Private,*
+1136_b,*,31,*,*,*,United-States,Private,*
+191_b,*,31,*,*,*,United-States,Private,*
+553_b,*,31,*,*,Higher education,United-States,*,*
+950_b,*,31,*,*,Higher education,United-States,*,*
+941_b,*,31,*,*,Higher education,United-States,*,*
+867_b,*,31,White,*,Higher education,United-States,Non-Government,*
+964_b,*,31,White,*,Higher education,United-States,Non-Government,*
+1368_b,*,31,White,*,Higher education,United-States,Non-Government,*
+745_b,*,31,*,*,High School,United-States,Private,Other
+1485_b,*,31,*,*,High School,United-States,Private,Other
+1089_b,*,31,*,*,High School,United-States,Private,Other
+450_b,Male,31,*,*,HS-grad,North America,Private,Other
+802_b,Male,31,*,*,HS-grad,North America,Private,Other
+1244_b,Male,31,*,*,HS-grad,North America,Private,Other
+1408_b,*,31,White,*,*,North America,*,*
+624_b,*,31,White,*,*,North America,*,*
+1406_b,*,31,White,*,*,North America,*,*
+331_b,*,31,White,*,High School,United-States,Private,*
+280_b,*,31,White,*,High School,United-States,Private,*
+661_b,*,31,White,*,High School,United-States,Private,*
+1343_b,*,31,White,*,*,United-States,Private,*
+816_b,*,31,White,*,*,United-States,Private,*
+1288_b,*,31,White,*,*,United-States,Private,*
+677_b,*,31,*,spouse not present,Higher education,United-States,*,*
+832_b,*,31,*,spouse not present,Higher education,United-States,*,*
+555_b,*,31,*,spouse not present,Higher education,United-States,*,*
+274_b,*,31,*,*,*,United-States,Private,*
+3_b,*,31,*,*,*,United-States,Private,*
+1155_b,*,31,*,*,*,United-States,Private,*
+1345_b,Male,31,White,Never-married,*,United-States,Private,*
+1499_b,Male,31,White,Never-married,*,United-States,Private,*
+339_b,Male,31,White,Never-married,*,United-States,Private,*
+1405_b,Male,31-35,*,*,*,United-States,Private,*
+1084_b,Male,31-35,*,*,*,United-States,Private,*
+289_b,Male,31-35,*,*,*,United-States,Private,*
+945_b,*,32,White,*,*,United-States,*,*
+1241_b,*,32,White,*,*,United-States,*,*
+1202_b,*,32,White,*,*,United-States,*,*
+788_b,*,32,*,*,*,United-States,*,Other
+926_b,*,32,*,*,*,United-States,*,Other
+1127_b,*,32,*,*,*,United-States,*,Other
+1289_b,Male,32,White,Married-civ-spouse,*,United-States,*,Nontechnical
+1209_b,Male,32,White,Married-civ-spouse,*,United-States,*,Nontechnical
+1065_b,Male,32,White,Married-civ-spouse,*,United-States,*,Nontechnical
+401_b,*,32,White,*,*,North America,Non-Government,*
+1114_b,*,32,White,*,*,North America,Non-Government,*
+362_b,*,32,White,*,*,North America,Non-Government,*
+693_b,*,32,White,*,*,North America,Non-Government,*
+603_b,*,32,White,*,*,North America,Non-Government,*
+848_b,*,32,White,spouse not present,*,United-States,Private,*
+76_b,*,32,White,spouse not present,*,United-States,Private,*
+468_b,*,32,White,spouse not present,*,United-States,Private,*
+980_b,*,32,*,spouse not present,*,United-States,*,*
+907_b,*,32,*,spouse not present,*,United-States,*,*
+506_b,*,32,*,spouse not present,*,United-States,*,*
+185_b,Male,32,White,*,*,United-States,*,*
+150_b,Male,32,White,*,*,United-States,*,*
+70_b,Male,32,White,*,*,United-States,*,*
+242_b,Male,32,White,*,*,United-States,*,Other
+16_b,Male,32,White,*,*,United-States,*,Other
+423_b,Male,32,White,*,*,United-States,*,Other
+324_b,Male,32,White,*,*,United-States,Private,*
+305_b,Male,32,White,*,*,United-States,Private,*
+718_b,Male,32,White,*,*,United-States,Private,*
+84_b,Male,32,White,*,*,United-States,*,*
+570_b,Male,32,White,*,*,United-States,*,*
+1_b,Male,32,White,*,*,United-States,*,*
+1111_b,Male,32,White,spouse not present,*,*,Private,*
+846_b,Male,32,White,spouse not present,*,*,Private,*
+564_b,Male,32,White,spouse not present,*,*,Private,*
+571_b,*,32,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+1222_b,*,32,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+944_b,*,32,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+505_b,*,32,White,*,Undergraduate,United-States,*,*
+748_b,*,32,White,*,Undergraduate,United-States,*,*
+419_b,*,32,White,*,Undergraduate,United-States,*,*
+997_b,*,31-35,White,*,*,United-States,Private,*
+351_b,*,31-35,White,*,*,United-States,Private,*
+696_b,*,31-35,White,*,*,United-States,Private,*
+1118_b,*,33,White,*,Higher education,United-States,Non-Government,*
+878_b,*,33,White,*,Higher education,United-States,Non-Government,*
+59_b,*,33,White,*,Higher education,United-States,Non-Government,*
+1074_b,Male,33,White,Married-civ-spouse,*,United-States,Private,Nontechnical
+350_b,Male,33,White,Married-civ-spouse,*,United-States,Private,Nontechnical
+737_b,Male,33,White,Married-civ-spouse,*,United-States,Private,Nontechnical
+755_b,*,33,*,*,*,United-States,*,*
+164_b,*,33,*,*,*,United-States,*,*
+1323_b,*,33,*,*,*,United-States,*,*
+684_b,Male,33,*,*,Undergraduate,United-States,*,*
+1311_b,Male,33,*,*,Undergraduate,United-States,*,*
+1154_b,Male,33,*,*,Undergraduate,United-States,*,*
+1381_b,Male,33,*,*,*,*,Non-Government,*
+919_b,Male,33,*,*,*,*,Non-Government,*
+519_b,Male,33,*,*,*,*,Non-Government,*
+894_b,Male,33,*,*,*,*,Non-Government,*
+869_b,Male,33,*,*,*,*,Non-Government,*
+212_b,*,33,*,*,*,United-States,Private,*
+1459_b,*,33,*,*,*,United-States,Private,*
+142_b,*,33,*,*,*,United-States,Private,*
+1272_b,*,33,White,spouse not present,*,United-States,*,*
+1371_b,*,33,White,spouse not present,*,United-States,*,*
+105_b,*,33,White,spouse not present,*,United-States,*,*
+163_b,Male,31-35,White,*,*,United-States,Private,*
+442_b,Male,31-35,White,*,*,United-States,Private,*
+1196_b,Male,31-35,White,*,*,United-States,Private,*
+394_b,Male,34,White,*,Higher education,United-States,*,*
+558_b,Male,34,White,*,Higher education,United-States,*,*
+1032_b,Male,34,White,*,Higher education,United-States,*,*
+866_b,*,34,*,*,Higher education,*,*,Nontechnical
+1352_b,*,34,*,*,Higher education,*,*,Nontechnical
+732_b,*,34,*,*,Higher education,*,*,Nontechnical
+1219_b,*,34,*,*,*,United-States,Private,*
+1177_b,*,34,*,*,*,United-States,Private,*
+1236_b,*,34,*,*,*,United-States,Private,*
+931_b,Male,34,White,Married-civ-spouse,*,*,Private,Technical
+912_b,Male,34,White,Married-civ-spouse,*,*,Private,Technical
+1131_b,Male,34,White,Married-civ-spouse,*,*,Private,Technical
+1264_b,*,34,*,*,*,United-States,Non-Government,Technical
+906_b,*,34,*,*,*,United-States,Non-Government,Technical
+204_b,*,34,*,*,*,United-States,Non-Government,Technical
+1029_b,*,34,*,*,*,United-States,Non-Government,*
+879_b,*,34,*,*,*,United-States,Non-Government,*
+1036_b,*,34,*,*,*,United-States,Non-Government,*
+872_b,Male,34,White,*,Undergraduate,United-States,Private,*
+607_b,Male,34,White,*,Undergraduate,United-States,Private,*
+1063_b,Male,34,White,*,Undergraduate,United-States,Private,*
+673_b,*,34,White,*,*,North America,Private,*
+1262_b,*,34,White,*,*,North America,Private,*
+400_b,*,34,White,*,*,North America,Private,*
+618_b,Male,34,White,Married-civ-spouse,*,United-States,*,*
+115_b,Male,34,White,Married-civ-spouse,*,United-States,*,*
+219_b,Male,34,White,Married-civ-spouse,*,United-States,*,*
+1022_b,*,34,*,*,*,North America,Private,*
+1433_b,*,34,*,*,*,North America,Private,*
+808_b,*,34,*,*,*,North America,Private,*
+532_b,*,34,*,*,HS-grad,United-States,Non-Government,Technical
+1007_b,*,34,*,*,HS-grad,United-States,Non-Government,Technical
+740_b,*,34,*,*,HS-grad,United-States,Non-Government,Technical
+1153_b,Male,34,*,*,*,United-States,Private,*
+1110_b,Male,34,*,*,*,United-States,Private,*
+573_b,Male,34,*,*,*,United-States,Private,*
+1396_b,Male,34,*,*,*,United-States,Private,*
+1411_b,Male,34,*,*,*,United-States,Private,*
+483_b,*,31-35,White,*,*,United-States,Private,Nontechnical
+596_b,*,31-35,White,*,*,United-States,Private,Nontechnical
+522_b,*,31-35,White,*,*,United-States,Private,Nontechnical
+850_b,Male,35,*,spouse not present,*,United-States,*,Other
+1267_b,Male,35,*,spouse not present,*,United-States,*,Other
+17_b,Male,35,*,spouse not present,*,United-States,*,Other
+1015_b,Male,35,White,Married-civ-spouse,*,United-States,Private,*
+46_b,Male,35,White,Married-civ-spouse,*,United-States,Private,*
+609_b,Male,35,White,Married-civ-spouse,*,United-States,Private,*
+1470_b,Male,35,White,*,*,*,Non-Government,Nontechnical
+1391_b,Male,35,White,*,*,*,Non-Government,Nontechnical
+1451_b,Male,35,White,*,*,*,Non-Government,Nontechnical
+568_b,*,35,White,spouse not present,*,United-States,Private,*
+77_b,*,35,White,spouse not present,*,United-States,Private,*
+467_b,*,35,White,spouse not present,*,United-States,Private,*
+1464_b,*,35,White,*,*,United-States,Private,*
+900_b,*,35,White,*,*,United-States,Private,*
+1248_b,*,35,White,*,*,United-States,Private,*
+214_b,*,35,White,*,*,United-States,Private,Nontechnical
+1079_b,*,35,White,*,*,United-States,Private,Nontechnical
+1039_b,*,35,White,*,*,United-States,Private,Nontechnical
+937_b,*,35,*,*,*,*,Non-Government,*
+707_b,*,35,*,*,*,*,Non-Government,*
+565_b,*,35,*,*,*,*,Non-Government,*
+341_b,Female,35,White,*,Higher education,United-States,*,*
+759_b,Female,35,White,*,Higher education,United-States,*,*
+956_b,Female,35,White,*,Higher education,United-States,*,*
+267_b,Male,35,*,*,*,United-States,Private,*
+1271_b,Male,35,*,*,*,United-States,Private,*
+118_b,Male,35,*,*,*,United-States,Private,*
+754_b,Male,35,White,*,*,*,Private,Sales
+231_b,Male,35,White,*,*,*,Private,Sales
+516_b,Male,35,White,*,*,*,Private,Sales
+1295_b,Male,35,White,Married-civ-spouse,*,North America,*,*
+1328_b,Male,35,White,Married-civ-spouse,*,North America,*,*
+951_b,Male,35,White,Married-civ-spouse,*,North America,*,*
+627_b,*,35,*,spouse not present,*,United-States,Private,*
+731_b,*,35,*,spouse not present,*,United-States,Private,*
+293_b,*,35,*,spouse not present,*,United-States,Private,*
+366_b,Male,35,White,*,*,United-States,Private,Nontechnical
+543_b,Male,35,White,*,*,United-States,Private,Nontechnical
+1429_b,Male,35,White,*,*,United-States,Private,Nontechnical
+1047_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+656_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+260_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+925_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+278_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+579_b,Male,36,White,Married-civ-spouse,*,United-States,*,*
+457_b,Male,36,White,Married-civ-spouse,*,United-States,*,*
+882_b,Male,36,White,Married-civ-spouse,*,United-States,*,*
+1268_b,Male,36,White,*,Undergraduate,North America,*,*
+1427_b,Male,36,White,*,Undergraduate,North America,*,*
+611_b,Male,36,White,*,Undergraduate,North America,*,*
+566_b,Male,36,White,Married-civ-spouse,Bachelors,United-States,*,*
+1428_b,Male,36,White,Married-civ-spouse,Bachelors,United-States,*,*
+897_b,Male,36,White,Married-civ-spouse,Bachelors,United-States,*,*
+992_b,Male,36,White,*,High School,United-States,Non-Government,*
+217_b,Male,36,White,*,High School,United-States,Non-Government,*
+1353_b,Male,36,White,*,High School,United-States,Non-Government,*
+1016_b,*,36,White,*,*,United-States,*,*
+918_b,*,36,White,*,*,United-States,*,*
+934_b,*,36,White,*,*,United-States,*,*
+752_b,*,36,White,*,*,United-States,*,*
+1285_b,*,36,White,*,*,United-States,*,*
+417_b,*,36,White,*,*,United-States,*,*
+24_b,Male,36,White,Married-civ-spouse,HS-grad,United-States,Private,Nontechnical
+528_b,Male,36,White,Married-civ-spouse,HS-grad,United-States,Private,Nontechnical
+1430_b,Male,36,White,Married-civ-spouse,HS-grad,United-States,Private,Nontechnical
+705_b,*,36,White,Married-civ-spouse,Higher education,United-States,*,*
+874_b,*,36,White,Married-civ-spouse,Higher education,United-States,*,*
+20_b,*,36,White,Married-civ-spouse,Higher education,United-States,*,*
+78_b,*,36,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+1298_b,*,36,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+178_b,*,36,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+856_b,Male,36,*,Married-civ-spouse,Higher education,*,Private,*
+1316_b,Male,36,*,Married-civ-spouse,Higher education,*,Private,*
+760_b,Male,36,*,Married-civ-spouse,Higher education,*,Private,*
+563_b,Male,36-40,White,*,Higher education,*,Non-Government,*
+862_b,Male,36-40,White,*,Higher education,*,Non-Government,*
+1318_b,Male,36-40,White,*,Higher education,*,Non-Government,*
+250_b,*,37,White,*,*,United-States,*,*
+758_b,*,37,White,*,*,United-States,*,*
+1461_b,*,37,White,*,*,United-States,*,*
+108_b,*,37,*,*,*,United-States,Non-Government,Nontechnical
+80_b,*,37,*,*,*,United-States,Non-Government,Nontechnical
+165_b,*,37,*,*,*,United-States,Non-Government,Nontechnical
+1160_b,Male,37,White,*,High School,North America,Non-Government,*
+881_b,Male,37,White,*,High School,North America,Non-Government,*
+1420_b,Male,37,White,*,High School,North America,Non-Government,*
+868_b,*,37,*,*,*,*,Private,*
+200_b,*,37,*,*,*,*,Private,*
+1081_b,*,37,*,*,*,*,Private,*
+606_b,*,37,*,*,*,*,Private,*
+189_b,*,37,*,*,*,*,Private,*
+621_b,*,37,*,*,*,United-States,Non-Government,*
+1313_b,*,37,*,*,*,United-States,Non-Government,*
+263_b,*,37,*,*,*,United-States,Non-Government,*
+1466_b,*,37,White,*,*,United-States,Non-Government,*
+91_b,*,37,White,*,*,United-States,Non-Government,*
+311_b,*,37,White,*,*,United-States,Non-Government,*
+1437_b,*,37,*,*,*,United-States,*,*
+380_b,*,37,*,*,*,United-States,*,*
+895_b,*,37,*,*,*,United-States,*,*
+491_b,Male,37,White,*,*,United-States,*,*
+595_b,Male,37,White,*,*,United-States,*,*
+625_b,Male,37,White,*,*,United-States,*,*
+647_b,Male,37,White,*,*,United-States,Non-Government,*
+703_b,Male,37,White,*,*,United-States,Non-Government,*
+1399_b,Male,37,White,*,*,United-States,Non-Government,*
+844_b,*,37,White,spouse not present,*,North America,Non-Government,*
+243_b,*,37,White,spouse not present,*,North America,Non-Government,*
+1147_b,*,37,White,spouse not present,*,North America,Non-Government,*
+1454_b,*,37,White,*,HS-grad,United-States,*,*
+960_b,*,37,White,*,HS-grad,United-States,*,*
+1210_b,*,37,White,*,HS-grad,United-States,*,*
+69_b,*,37,White,*,Higher education,United-States,Private,*
+541_b,*,37,White,*,Higher education,United-States,Private,*
+1212_b,*,37,White,*,Higher education,United-States,Private,*
+248_b,Male,37,*,Married-civ-spouse,*,United-States,Private,Exec-managerial
+336_b,Male,37,*,Married-civ-spouse,*,United-States,Private,Exec-managerial
+1133_b,Male,37,*,Married-civ-spouse,*,United-States,Private,Exec-managerial
+1422_b,Male,38,White,Married-civ-spouse,*,North America,Private,*
+335_b,Male,38,White,Married-civ-spouse,*,North America,Private,*
+1146_b,Male,38,White,Married-civ-spouse,*,North America,Private,*
+1151_b,Male,38,White,*,*,United-States,Non-Government,*
+273_b,Male,38,White,*,*,United-States,Non-Government,*
+148_b,Male,38,White,*,*,United-States,Non-Government,*
+1308_b,Male,38,*,*,*,United-States,Private,*
+469_b,Male,38,*,*,*,United-States,Private,*
+282_b,Male,38,*,*,*,United-States,Private,*
+780_b,Male,38,*,*,*,*,*,*
+695_b,Male,38,*,*,*,*,*,*
+162_b,Male,38,*,*,*,*,*,*
+1030_b,Female,38,*,spouse not present,*,United-States,Private,Other
+356_b,Female,38,*,spouse not present,*,United-States,Private,Other
+56_b,Female,38,*,spouse not present,*,United-States,Private,Other
+1294_b,*,38,*,*,*,United-States,*,*
+458_b,*,38,*,*,*,United-States,*,*
+761_b,*,38,*,*,*,United-States,*,*
+1379_b,*,38,*,*,*,United-States,*,*
+415_b,*,38,*,*,*,United-States,*,*
+279_b,*,38,White,*,*,United-States,Private,Other
+791_b,*,38,White,*,*,United-States,Private,Other
+302_b,*,38,White,*,*,United-States,Private,Other
+358_b,Male,38,*,Married-civ-spouse,*,North America,Non-Government,*
+1455_b,Male,38,*,Married-civ-spouse,*,North America,Non-Government,*
+125_b,Male,38,*,Married-civ-spouse,*,North America,Non-Government,*
+186_b,Male,38,*,*,*,United-States,*,*
+965_b,Male,38,*,*,*,United-States,*,*
+482_b,Male,38,*,*,*,United-States,*,*
+1214_b,*,38,White,*,Higher education,United-States,*,*
+25_b,*,38,White,*,Higher education,United-States,*,*
+1339_b,*,38,White,*,Higher education,United-States,*,*
+310_b,*,38,White,*,*,United-States,Private,Other
+395_b,*,38,White,*,*,United-States,Private,Other
+1458_b,*,38,White,*,*,United-States,Private,Other
+995_b,*,36-40,White,*,*,United-States,Non-Government,*
+977_b,*,36-40,White,*,*,United-States,Non-Government,*
+1053_b,*,36-40,White,*,*,United-States,Non-Government,*
+1300_b,Male,39,White,*,*,North America,*,*
+1452_b,Male,39,White,*,*,North America,*,*
+922_b,Male,39,White,*,*,North America,*,*
+547_b,Male,39,White,*,*,North America,*,*
+196_b,Male,39,White,*,*,North America,*,*
+175_b,Male,39,*,*,High School,United-States,*,*
+1350_b,Male,39,*,*,High School,United-States,*,*
+942_b,Male,39,*,*,High School,United-States,*,*
+461_b,Male,39,White,Married-civ-spouse,*,North America,Private,Craft-repair
+962_b,Male,39,White,Married-civ-spouse,*,North America,Private,Craft-repair
+452_b,Male,39,White,Married-civ-spouse,*,North America,Private,Craft-repair
+843_b,Male,39,*,*,*,United-States,Private,*
+459_b,Male,39,*,*,*,United-States,Private,*
+1293_b,Male,39,*,*,*,United-States,Private,*
+342_b,*,39,*,*,Higher education,United-States,Private,Exec-managerial
+771_b,*,39,*,*,Higher education,United-States,Private,Exec-managerial
+1453_b,*,39,*,*,Higher education,United-States,Private,Exec-managerial
+1078_b,*,39,Black,*,*,North America,*,Nontechnical
+524_b,*,39,Black,*,*,North America,*,Nontechnical
+973_b,*,39,Black,*,*,North America,*,Nontechnical
+43_b,Male,39,White,*,HS-grad,United-States,Private,*
+649_b,Male,39,White,*,HS-grad,United-States,Private,*
+969_b,Male,39,White,*,HS-grad,United-States,Private,*
+1189_b,*,39,*,*,*,United-States,*,*
+1140_b,*,39,*,*,*,United-States,*,*
+153_b,*,39,*,*,*,United-States,*,*
+275_b,*,39,*,*,*,United-States,*,*
+121_b,*,39,*,*,*,United-States,*,*
+719_b,*,39,*,Married-civ-spouse,*,United-States,Private,*
+486_b,*,39,*,Married-civ-spouse,*,United-States,Private,*
+11_b,*,39,*,Married-civ-spouse,*,United-States,Private,*
+560_b,Male,39,White,Married-civ-spouse,*,North America,Private,Nontechnical
+338_b,Male,39,White,Married-civ-spouse,*,North America,Private,Nontechnical
+1194_b,Male,39,White,Married-civ-spouse,*,North America,Private,Nontechnical
+420_b,Male,40,White,*,*,North America,Non-Government,*
+1387_b,Male,40,White,*,*,North America,Non-Government,*
+1324_b,Male,40,White,*,*,North America,Non-Government,*
+110_b,Male,40,*,Married-civ-spouse,*,United-States,Non-Government,*
+5_b,Male,40,*,Married-civ-spouse,*,United-States,Non-Government,*
+790_b,Male,40,*,Married-civ-spouse,*,United-States,Non-Government,*
+155_b,*,40,White,*,*,North America,Private,*
+1069_b,*,40,White,*,*,North America,Private,*
+1281_b,*,40,White,*,*,North America,Private,*
+1054_b,*,40,*,Never-married,High School,North America,Non-Government,*
+309_b,*,40,*,Never-married,High School,North America,Non-Government,*
+316_b,*,40,*,Never-married,High School,North America,Non-Government,*
+520_b,*,40,*,spouse not present,*,*,Private,*
+1181_b,*,40,*,spouse not present,*,*,Private,*
+1354_b,*,40,*,spouse not present,*,*,Private,*
+839_b,Male,40,White,*,*,*,*,*
+198_b,Male,40,White,*,*,*,*,*
+1249_b,Male,40,White,*,*,*,*,*
+283_b,*,40,White,*,*,United-States,*,Nontechnical
+1175_b,*,40,White,*,*,United-States,*,Nontechnical
+1382_b,*,40,White,*,*,United-States,*,Nontechnical
+1375_b,Female,40,White,*,*,United-States,Private,Adm-clerical
+343_b,Female,40,White,*,*,United-States,Private,Adm-clerical
+833_b,Female,40,White,*,*,United-States,Private,Adm-clerical
+619_b,*,40,*,*,Higher education,United-States,*,*
+49_b,*,40,*,*,Higher education,United-States,*,*
+1436_b,*,40,*,*,Higher education,United-States,*,*
+1416_b,*,40,*,spouse not present,Some-college,United-States,*,*
+1231_b,*,40,*,spouse not present,Some-college,United-States,*,*
+1195_b,*,40,*,spouse not present,Some-college,United-States,*,*
+495_b,Male,40,White,Married-civ-spouse,*,United-States,*,*
+1102_b,Male,40,White,Married-civ-spouse,*,United-States,*,*
+1471_b,Male,40,White,Married-civ-spouse,*,United-States,*,*
+501_b,*,40,*,spouse not present,*,United-States,Private,Other
+44_b,*,40,*,spouse not present,*,United-States,Private,Other
+6_b,*,40,*,spouse not present,*,United-States,Private,Other
+1143_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1097_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1305_b,*,*,White,*,Higher education,United-States,Non-Government,*
+987_b,*,*,White,*,Higher education,United-States,Non-Government,*
+817_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1082_b,Male,41,White,Married-civ-spouse,*,United-States,Private,*
+126_b,Male,41,White,Married-civ-spouse,*,United-States,Private,*
+697_b,Male,41,White,Married-civ-spouse,*,United-States,Private,*
+1021_b,*,41,*,*,*,United-States,*,*
+39_b,*,41,*,*,*,United-States,*,*
+706_b,*,41,*,*,*,United-States,*,*
+462_b,Male,41,*,*,Higher education,*,*,*
+277_b,Male,41,*,*,Higher education,*,*,*
+1312_b,Male,41,*,*,Higher education,*,*,*
+1071_b,*,41,White,*,*,United-States,Private,Nontechnical
+1141_b,*,41,White,*,*,United-States,Private,Nontechnical
+794_b,*,41,White,*,*,United-States,Private,Nontechnical
+1242_b,*,41,*,*,Higher education,*,Private,*
+835_b,*,41,*,*,Higher education,*,Private,*
+806_b,*,41,*,*,Higher education,*,Private,*
+1238_b,Male,41,White,*,*,North America,Private,Other
+983_b,Male,41,White,*,*,North America,Private,Other
+7_b,Male,41,White,*,*,North America,Private,Other
+359_b,*,41,White,*,*,United-States,*,*
+687_b,*,41,White,*,*,United-States,*,*
+660_b,*,41,White,*,*,United-States,*,*
+1286_b,*,41,White,*,*,North America,*,Technical
+1338_b,*,41,White,*,*,North America,*,Technical
+21_b,*,41,White,*,*,North America,*,Technical
+1103_b,*,41,White,*,*,North America,*,*
+853_b,*,41,White,*,*,North America,*,*
+1287_b,*,41,White,*,*,North America,*,*
+1213_b,*,41,White,*,*,United-States,Private,*
+319_b,*,41,White,*,*,United-States,Private,*
+1044_b,*,41,White,*,*,United-States,Private,*
+220_b,*,41,*,*,*,United-States,Private,*
+933_b,*,41,*,*,*,United-States,Private,*
+582_b,*,41,*,*,*,United-States,Private,*
+601_b,*,41-45,White,*,*,United-States,*,*
+650_b,*,41-45,White,*,*,United-States,*,*
+1277_b,*,41-45,White,*,*,United-States,*,*
+430_b,*,42,White,Married-civ-spouse,*,United-States,Private,*
+86_b,*,42,White,Married-civ-spouse,*,United-States,Private,*
+914_b,*,42,White,Married-civ-spouse,*,United-States,Private,*
+809_b,Male,42,*,*,*,United-States,Non-Government,*
+207_b,Male,42,*,*,*,United-States,Non-Government,*
+1009_b,Male,42,*,*,*,United-States,Non-Government,*
+626_b,*,42,White,*,Higher education,United-States,Non-Government,*
+972_b,*,42,White,*,Higher education,United-States,Non-Government,*
+427_b,*,42,White,*,Higher education,United-States,Non-Government,*
+276_b,*,42,White,*,Higher education,United-States,Non-Government,*
+777_b,*,42,White,*,Higher education,United-States,Non-Government,*
+463_b,Male,42,White,Married-civ-spouse,*,United-States,*,Nontechnical
+825_b,Male,42,White,Married-civ-spouse,*,United-States,*,Nontechnical
+735_b,Male,42,White,Married-civ-spouse,*,United-States,*,Nontechnical
+938_b,Male,42,*,Married-civ-spouse,*,United-States,*,*
+1105_b,Male,42,*,Married-civ-spouse,*,United-States,*,*
+798_b,Male,42,*,Married-civ-spouse,*,United-States,*,*
+340_b,*,42,White,*,Higher education,United-States,*,Prof-specialty
+1419_b,*,42,White,*,Higher education,United-States,*,Prof-specialty
+830_b,*,42,White,*,Higher education,United-States,*,Prof-specialty
+304_b,Female,42,*,*,Higher education,United-States,*,*
+386_b,Female,42,*,*,Higher education,United-States,*,*
+749_b,Female,42,*,*,Higher education,United-States,*,*
+1386_b,*,42,White,*,Higher education,North America,*,*
+1165_b,*,42,White,*,Higher education,North America,*,*
+666_b,*,42,White,*,Higher education,North America,*,*
+444_b,*,42,White,*,*,United-States,*,Nontechnical
+1192_b,*,42,White,*,*,United-States,*,Nontechnical
+699_b,*,42,White,*,*,United-States,*,Nontechnical
+889_b,Male,42,*,*,*,United-States,Non-Government,*
+1481_b,Male,42,*,*,*,United-States,Non-Government,*
+1216_b,Male,42,*,*,*,United-States,Non-Government,*
+1120_b,*,42,*,*,Undergraduate,United-States,*,*
+1467_b,*,42,*,*,Undergraduate,United-States,*,*
+88_b,*,42,*,*,Undergraduate,United-States,*,*
+620_b,*,42,White,*,*,United-States,Private,*
+318_b,*,42,White,*,*,United-States,Private,*
+1490_b,*,42,White,*,*,United-States,Private,*
+637_b,Male,42,White,Married-civ-spouse,*,United-States,Private,*
+1107_b,Male,42,White,Married-civ-spouse,*,United-States,Private,*
+1367_b,Male,42,White,Married-civ-spouse,*,United-States,Private,*
+1113_b,*,41-45,*,spouse not present,High School,United-States,*,*
+886_b,*,41-45,*,spouse not present,High School,United-States,*,*
+139_b,*,41-45,*,spouse not present,High School,United-States,*,*
+239_b,*,43,White,*,*,United-States,Private,*
+1150_b,*,43,White,*,*,United-States,Private,*
+1052_b,*,43,White,*,*,United-States,Private,*
+1130_b,Male,43,White,*,Higher education,United-States,Private,Nontechnical
+245_b,Male,43,White,*,Higher education,United-States,Private,Nontechnical
+786_b,Male,43,White,*,Higher education,United-States,Private,Nontechnical
+270_b,Male,43,White,*,*,United-States,Private,*
+1366_b,Male,43,White,*,*,United-States,Private,*
+477_b,Male,43,White,*,*,United-States,Private,*
+1229_b,Male,43,*,*,Higher education,United-States,*,*
+819_b,Male,43,*,*,Higher education,United-States,*,*
+143_b,Male,43,*,*,Higher education,United-States,*,*
+346_b,Male,43,*,*,Higher education,United-States,*,*
+64_b,Male,43,*,*,Higher education,United-States,*,*
+756_b,*,43,*,*,*,United-States,Private,*
+1218_b,*,43,*,*,*,United-States,Private,*
+249_b,*,43,*,*,*,United-States,Private,*
+116_b,*,43,*,*,*,United-States,*,*
+227_b,*,43,*,*,*,United-States,*,*
+493_b,*,43,*,*,*,United-States,*,*
+303_b,Male,43,White,*,Higher education,United-States,Non-Government,*
+1020_b,Male,43,White,*,Higher education,United-States,Non-Government,*
+636_b,Male,43,White,*,Higher education,United-States,Non-Government,*
+235_b,Male,43,White,*,*,United-States,*,*
+1392_b,Male,43,White,*,*,United-States,*,*
+373_b,Male,43,White,*,*,United-States,*,*
+1226_b,Male,43,White,*,Higher education,United-States,*,*
+334_b,Male,43,White,*,Higher education,United-States,*,*
+1253_b,Male,43,White,*,Higher education,United-States,*,*
+1439_b,Male,43,White,*,*,United-States,Non-Government,*
+1335_b,Male,43,White,*,*,United-States,Non-Government,*
+60_b,Male,43,White,*,*,United-States,Non-Government,*
+426_b,Male,44,*,spouse not present,*,United-States,Non-Government,*
+132_b,Male,44,*,spouse not present,*,United-States,Non-Government,*
+1259_b,Male,44,*,spouse not present,*,United-States,Non-Government,*
+789_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+681_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+1465_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+261_b,Male,44,White,*,*,United-States,Private,Technical
+538_b,Male,44,White,*,*,United-States,Private,Technical
+470_b,Male,44,White,*,*,United-States,Private,Technical
+860_b,Male,44,White,*,Higher education,United-States,Private,*
+921_b,Male,44,White,*,Higher education,United-States,Private,*
+252_b,Male,44,White,*,Higher education,United-States,Private,*
+226_b,*,44,*,*,*,United-States,Private,Nontechnical
+664_b,*,44,*,*,*,United-States,Private,Nontechnical
+257_b,*,44,*,*,*,United-States,Private,Nontechnical
+285_b,*,44,*,*,*,*,*,*
+770_b,*,44,*,*,*,*,*,*
+657_b,*,44,*,*,*,*,*,*
+984_b,Male,44,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+453_b,Male,44,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+773_b,Male,44,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+31_b,*,44,*,*,*,North America,*,*
+1326_b,*,44,*,*,*,North America,*,*
+940_b,*,44,*,*,*,North America,*,*
+188_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+496_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+144_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+569_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+234_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+723_b,*,44,*,*,*,United-States,Private,Other
+1309_b,*,44,*,*,*,United-States,Private,Other
+1276_b,*,44,*,*,*,United-States,Private,Other
+190_b,Male,44,*,*,*,*,Private,*
+229_b,Male,44,*,*,*,*,Private,*
+94_b,Male,44,*,*,*,*,Private,*
+1446_b,*,44,*,*,*,*,*,*
+1491_b,*,44,*,*,*,*,*,*
+407_b,*,44,*,*,*,*,*,*
+29_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+221_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+431_b,*,44,White,Married-civ-spouse,*,*,Non-Government,*
+1407_b,*,45,*,*,*,*,Private,*
+820_b,*,45,*,*,*,*,Private,*
+392_b,*,45,*,*,*,*,Private,*
+1348_b,*,45,White,*,Higher education,*,Private,*
+857_b,*,45,White,*,Higher education,*,Private,*
+179_b,*,45,White,*,Higher education,*,Private,*
+764_b,Male,45,White,Married-civ-spouse,*,United-States,Private,*
+474_b,Male,45,White,Married-civ-spouse,*,United-States,Private,*
+72_b,Male,45,White,Married-civ-spouse,*,United-States,Private,*
+648_b,*,45,*,spouse not present,*,*,*,*
+753_b,*,45,*,spouse not present,*,*,*,*
+348_b,*,45,*,spouse not present,*,*,*,*
+1090_b,Male,45,White,Married-civ-spouse,*,United-States,Non-Government,*
+730_b,Male,45,White,Married-civ-spouse,*,United-States,Non-Government,*
+1108_b,Male,45,White,Married-civ-spouse,*,United-States,Non-Government,*
+137_b,*,45,*,*,Higher education,United-States,*,*
+1310_b,*,45,*,*,Higher education,United-States,*,*
+840_b,*,45,*,*,Higher education,United-States,*,*
+1479_b,*,45,White,*,*,*,*,*
+1086_b,*,45,White,*,*,*,*,*
+445_b,*,45,White,*,*,*,*,*
+195_b,Female,45,White,*,*,United-States,Private,*
+308_b,Female,45,White,*,*,United-States,Private,*
+1359_b,Female,45,White,*,*,United-States,Private,*
+692_b,Male,45,*,*,*,United-States,*,Nontechnical
+398_b,Male,45,*,*,*,United-States,*,Nontechnical
+28_b,Male,45,*,*,*,United-States,*,Nontechnical
+608_b,*,45,White,*,*,United-States,Private,*
+643_b,*,45,White,*,*,United-States,Private,*
+300_b,*,45,White,*,*,United-States,Private,*
+739_b,*,45,White,*,*,United-States,*,*
+382_b,*,45,White,*,*,United-States,*,*
+454_b,*,45,White,*,*,United-States,*,*
+823_b,*,45,White,*,*,United-States,*,*
+915_b,*,45,White,*,*,United-States,*,*
+1092_b,Male,45,*,Married-civ-spouse,*,*,*,*
+515_b,Male,45,*,Married-civ-spouse,*,*,*,*
+10_b,Male,45,*,Married-civ-spouse,*,*,*,*
+1199_b,*,41-50,White,spouse not present,Undergraduate,United-States,*,*
+1444_b,*,41-50,White,spouse not present,Undergraduate,United-States,*,*
+772_b,*,41-50,White,spouse not present,Undergraduate,United-States,*,*
+233_b,*,46,White,*,*,United-States,*,*
+172_b,*,46,White,*,*,United-States,*,*
+667_b,*,46,White,*,*,United-States,*,*
+291_b,Male,46,*,*,Higher education,United-States,Non-Government,*
+1337_b,Male,46,*,*,Higher education,United-States,Non-Government,*
+968_b,Male,46,*,*,Higher education,United-States,Non-Government,*
+1055_b,Male,46,White,*,*,United-States,Private,*
+1017_b,Male,46,White,*,*,United-States,Private,*
+183_b,Male,46,White,*,*,United-States,Private,*
+668_b,*,46,White,*,Undergraduate,United-States,Private,Nontechnical
+412_b,*,46,White,*,Undergraduate,United-States,Private,Nontechnical
+955_b,*,46,White,*,Undergraduate,United-States,Private,Nontechnical
+371_b,Male,46,*,*,High School,*,*,*
+9_b,Male,46,*,*,High School,*,*,*
+418_b,Male,46,*,*,High School,*,*,*
+811_b,*,46,White,*,HS-grad,United-States,Private,*
+971_b,*,46,White,*,HS-grad,United-States,Private,*
+489_b,*,46,White,*,HS-grad,United-States,Private,*
+1184_b,*,46,White,*,*,United-States,*,*
+1492_b,*,46,White,*,*,United-States,*,*
+1168_b,*,46,White,*,*,United-States,*,*
+709_b,*,46,*,spouse not present,*,United-States,Private,*
+41_b,*,46,*,spouse not present,*,United-States,Private,*
+783_b,*,46,*,spouse not present,*,United-States,Private,*
+1075_b,Male,46,White,Married-civ-spouse,Undergraduate,United-States,*,Technical
+1124_b,Male,46,White,Married-civ-spouse,Undergraduate,United-States,*,Technical
+807_b,Male,46,White,Married-civ-spouse,Undergraduate,United-States,*,Technical
+604_b,Male,46,White,Married-civ-spouse,High School,United-States,Private,*
+1221_b,Male,46,White,Married-civ-spouse,High School,United-States,Private,*
+95_b,Male,46,White,Married-civ-spouse,High School,United-States,Private,*
+35_b,*,46,*,*,*,United-States,*,*
+385_b,*,46,*,*,*,United-States,*,*
+642_b,*,46,*,*,*,United-States,*,*
+321_b,*,46-50,White,*,*,United-States,*,*
+1360_b,*,46-50,White,*,*,United-States,*,*
+1336_b,*,46-50,White,*,*,United-States,*,*
+616_b,*,47,*,*,*,*,Non-Government,*
+1033_b,*,47,*,*,*,*,Non-Government,*
+1265_b,*,47,*,*,*,*,Non-Government,*
+238_b,*,47,*,*,*,*,Non-Government,*
+140_b,*,47,*,*,*,*,Non-Government,*
+315_b,Male,47,*,*,*,*,Non-Government,Nontechnical
+691_b,Male,47,*,*,*,*,Non-Government,Nontechnical
+464_b,Male,47,*,*,*,*,Non-Government,Nontechnical
+1275_b,Male,47,White,*,*,United-States,Government,*
+1215_b,Male,47,White,*,*,United-States,Government,*
+99_b,Male,47,White,*,*,United-States,Government,*
+1023_b,*,47,White,*,*,United-States,Non-Government,*
+1067_b,*,47,White,*,*,United-States,Non-Government,*
+797_b,*,47,White,*,*,United-States,Non-Government,*
+574_b,*,47,*,*,*,United-States,*,*
+663_b,*,47,*,*,*,United-States,*,*
+100_b,*,47,*,*,*,United-States,*,*
+658_b,Male,47,White,Married-civ-spouse,*,United-States,*,*
+22_b,Male,47,White,Married-civ-spouse,*,United-States,*,*
+1325_b,Male,47,White,Married-civ-spouse,*,United-States,*,*
+1171_b,*,47,*,*,HS-grad,United-States,Private,Other
+109_b,*,47,*,*,HS-grad,United-States,Private,Other
+599_b,*,47,*,*,HS-grad,United-States,Private,Other
+174_b,*,47,*,*,*,United-States,Non-Government,Technical
+1398_b,*,47,*,*,*,United-States,Non-Government,Technical
+710_b,*,47,*,*,*,United-States,Non-Government,Technical
+222_b,*,47,White,*,*,North America,Private,*
+535_b,*,47,White,*,*,North America,Private,*
+654_b,*,47,White,*,*,North America,Private,*
+633_b,*,47,White,*,*,*,*,*
+686_b,*,47,White,*,*,*,*,*
+410_b,*,47,White,*,*,*,*,*
+1486_b,Male,47,White,*,*,United-States,Private,*
+1224_b,Male,47,White,*,*,United-States,Private,*
+871_b,Male,47,White,*,*,United-States,Private,*
+55_b,*,47,*,*,*,United-States,Private,Other
+4_b,*,47,*,*,*,United-States,Private,Other
+877_b,*,47,*,*,*,United-States,Private,Other
+1364_b,*,47,*,Married-civ-spouse,*,*,Private,*
+1122_b,*,47,*,Married-civ-spouse,*,*,Private,*
+729_b,*,47,*,Married-civ-spouse,*,*,Private,*
+567_b,*,47,White,*,*,United-States,Private,*
+1269_b,*,47,White,*,*,United-States,Private,*
+347_b,*,47,White,*,*,United-States,Private,*
+40_b,*,48,White,*,*,United-States,Non-Government,*
+970_b,*,48,White,*,*,United-States,Non-Government,*
+1315_b,*,48,White,*,*,United-States,Non-Government,*
+1139_b,*,48,White,*,*,United-States,*,*
+1142_b,*,48,White,*,*,United-States,*,*
+208_b,*,48,White,*,*,United-States,*,*
+1173_b,*,48,White,*,*,United-States,*,*
+1417_b,*,48,White,*,*,United-States,*,*
+1358_b,*,48,*,*,*,United-States,Private,*
+795_b,*,48,*,*,*,United-States,Private,*
+716_b,*,48,*,*,*,United-States,Private,*
+106_b,*,48,White,*,*,United-States,Non-Government,*
+187_b,*,48,White,*,*,United-States,Non-Government,*
+959_b,*,48,White,*,*,United-States,Non-Government,*
+1410_b,*,48,*,*,*,United-States,Non-Government,*
+372_b,*,48,*,*,*,United-States,Non-Government,*
+523_b,*,48,*,*,*,United-States,Non-Government,*
+1232_b,*,48,White,*,*,United-States,Private,*
+913_b,*,48,White,*,*,United-States,Private,*
+1066_b,*,48,White,*,*,United-States,Private,*
+1024_b,*,46-50,White,*,*,United-States,*,*
+111_b,*,46-50,White,*,*,United-States,*,*
+154_b,*,46-50,White,*,*,United-States,*,*
+259_b,*,49,*,*,*,United-States,*,*
+1474_b,*,49,*,*,*,United-States,*,*
+733_b,*,49,*,*,*,United-States,*,*
+47_b,*,49,White,*,*,*,Non-Government,*
+1449_b,*,49,White,*,*,*,Non-Government,*
+34_b,*,49,White,*,*,*,Non-Government,*
+1137_b,*,49,White,*,*,*,Non-Government,*
+272_b,*,49,White,*,*,*,Non-Government,*
+629_b,*,49,White,Married-civ-spouse,*,United-States,Private,*
+322_b,*,49,White,Married-civ-spouse,*,United-States,Private,*
+369_b,*,49,White,Married-civ-spouse,*,United-States,Private,*
+112_b,Male,49,*,*,High School,United-States,*,Other
+1163_b,Male,49,*,*,High School,United-States,*,Other
+526_b,Male,49,*,*,High School,United-States,*,Other
+288_b,*,49,*,*,*,United-States,Private,*
+670_b,*,49,*,*,*,United-States,Private,*
+330_b,*,49,*,*,*,United-States,Private,*
+720_b,*,49,White,Married-civ-spouse,Higher education,United-States,Private,*
+1388_b,*,49,White,Married-civ-spouse,Higher education,United-States,Private,*
+509_b,*,49,White,Married-civ-spouse,Higher education,United-States,Private,*
+81_b,*,49,White,*,Higher education,United-States,*,Technical
+1415_b,*,49,White,*,Higher education,United-States,*,Technical
+578_b,*,49,White,*,Higher education,United-States,*,Technical
+727_b,*,49,White,*,Undergraduate,United-States,*,*
+1462_b,*,49,White,*,Undergraduate,United-States,*,*
+1425_b,*,49,White,*,Undergraduate,United-States,*,*
+1148_b,*,49,White,*,*,*,*,Nontechnical
+1208_b,*,49,White,*,*,*,*,Nontechnical
+225_b,*,49,White,*,*,*,*,Nontechnical
+14_b,*,49,White,*,*,*,*,Nontechnical
+539_b,*,49,White,*,*,*,*,Nontechnical
+1493_b,*,50,*,*,Higher education,North America,*,*
+484_b,*,50,*,*,Higher education,North America,*,*
+113_b,*,50,*,*,Higher education,North America,*,*
+23_b,*,50,White,Married-civ-spouse,*,United-States,Non-Government,Technical
+246_b,*,50,White,Married-civ-spouse,*,United-States,Non-Government,Technical
+508_b,*,50,White,Married-civ-spouse,*,United-States,Non-Government,Technical
+360_b,Male,50,*,*,*,North America,*,*
+1126_b,Male,50,*,*,*,North America,*,*
+1174_b,Male,50,*,*,*,North America,*,*
+714_b,*,50,White,*,*,United-States,Non-Government,*
+301_b,*,50,White,*,*,United-States,Non-Government,*
+230_b,*,50,White,*,*,United-States,Non-Government,*
+27_b,*,50,*,*,*,*,*,Other
+974_b,*,50,*,*,*,*,*,Other
+1076_b,*,50,*,*,*,*,*,Other
+1395_b,*,50,*,*,Undergraduate,*,*,Other
+722_b,*,50,*,*,Undergraduate,*,*,Other
+176_b,*,50,*,*,Undergraduate,*,*,Other
+1284_b,Male,50,White,Married-civ-spouse,*,North America,*,Other
+1186_b,Male,50,White,Married-civ-spouse,*,North America,*,Other
+353_b,Male,50,White,Married-civ-spouse,*,North America,*,Other
+328_b,Male,50,White,*,Undergraduate,United-States,Private,*
+996_b,Male,50,White,*,Undergraduate,United-States,Private,*
+920_b,Male,50,White,*,Undergraduate,United-States,Private,*
+536_b,Male,50,White,*,*,United-States,Private,Nontechnical
+577_b,Male,50,White,*,*,United-States,Private,Nontechnical
+1314_b,Male,50,White,*,*,United-States,Private,Nontechnical
+156_b,Male,51,White,*,*,*,Private,*
+30_b,Male,51,White,*,*,*,Private,*
+193_b,Male,51,White,*,*,*,Private,*
+766_b,Male,51,*,Married-civ-spouse,*,United-States,Private,*
+258_b,Male,51,*,Married-civ-spouse,*,United-States,Private,*
+138_b,Male,51,*,Married-civ-spouse,*,United-States,Private,*
+236_b,Male,51,White,Married-civ-spouse,*,North America,Private,*
+1045_b,Male,51,White,Married-civ-spouse,*,North America,Private,*
+917_b,Male,51,White,Married-civ-spouse,*,North America,Private,*
+1193_b,Male,51,*,*,Higher education,United-States,Private,Nontechnical
+851_b,Male,51,*,*,Higher education,United-States,Private,Nontechnical
+763_b,Male,51,*,*,Higher education,United-States,Private,Nontechnical
+698_b,*,51,White,*,High School,United-States,Private,Other
+1149_b,*,51,White,*,High School,United-States,Private,Other
+613_b,*,51,White,*,High School,United-States,Private,Other
+750_b,*,51,White,*,Higher education,North America,*,Other
+507_b,*,51,White,*,Higher education,North America,*,Other
+1475_b,*,51,White,*,Higher education,North America,*,Other
+628_b,*,51,White,*,Higher education,North America,*,Other
+1073_b,*,51,White,*,Higher education,North America,*,Other
+542_b,Male,51,White,*,*,United-States,*,Craft-repair
+329_b,Male,51,White,*,*,United-States,*,Craft-repair
+1477_b,Male,51,White,*,*,United-States,*,Craft-repair
+378_b,Male,51,White,*,*,United-States,Private,*
+1014_b,Male,51,White,*,*,United-States,Private,*
+1233_b,Male,51,White,*,*,United-States,Private,*
+610_b,Male,51,*,Married-civ-spouse,*,United-States,*,Nontechnical
+377_b,Male,51,*,Married-civ-spouse,*,United-States,*,Nontechnical
+622_b,Male,51,*,Married-civ-spouse,*,United-States,*,Nontechnical
+367_b,Male,51-55,White,Married-civ-spouse,*,United-States,*,Other
+232_b,Male,51-55,White,Married-civ-spouse,*,United-States,*,Other
+281_b,Male,51-55,White,Married-civ-spouse,*,United-States,*,Other
+634_b,*,52,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+1183_b,*,52,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+194_b,*,52,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+1109_b,*,52,*,*,High School,United-States,*,*
+990_b,*,52,*,*,High School,United-States,*,*
+357_b,*,52,*,*,High School,United-States,*,*
+460_b,*,52,White,*,Higher education,United-States,Non-Government,*
+672_b,*,52,White,*,Higher education,United-States,Non-Government,*
+147_b,*,52,White,*,Higher education,United-States,Non-Government,*
+632_b,*,52,*,*,*,United-States,Private,*
+206_b,*,52,*,*,*,United-States,Private,*
+1018_b,*,52,*,*,*,United-States,Private,*
+364_b,*,52,White,*,*,United-States,*,*
+1003_b,*,52,White,*,*,United-States,*,*
+1116_b,*,52,White,*,*,United-States,*,*
+1068_b,*,52,White,*,*,United-States,Private,*
+812_b,*,52,White,*,*,United-States,Private,*
+384_b,*,52,White,*,*,United-States,Private,*
+107_b,*,51-55,*,*,*,United-States,Non-Government,*
+1389_b,*,51-55,*,*,*,United-States,Non-Government,*
+1279_b,*,51-55,*,*,*,United-States,Non-Government,*
+397_b,*,53,*,spouse not present,High School,North America,Private,Other
+741_b,*,53,*,spouse not present,High School,North America,Private,Other
+1280_b,*,53,*,spouse not present,High School,North America,Private,Other
+827_b,*,53,White,*,*,North America,*,*
+73_b,*,53,White,*,*,North America,*,*
+251_b,*,53,White,*,*,North America,*,*
+847_b,*,53,*,*,*,*,*,*
+904_b,*,53,*,*,*,*,*,*
+8_b,*,53,*,*,*,*,*,*
+256_b,*,53,*,*,*,United-States,*,Nontechnical
+584_b,*,53,*,*,*,United-States,*,Nontechnical
+313_b,*,53,*,*,*,United-States,*,Nontechnical
+1431_b,*,53,*,*,*,United-States,*,Nontechnical
+590_b,*,53,*,*,*,United-States,*,Nontechnical
+1347_b,Male,53,*,Married-civ-spouse,*,United-States,Non-Government,*
+62_b,Male,53,*,Married-civ-spouse,*,United-States,Non-Government,*
+1500_b,Male,53,*,Married-civ-spouse,*,United-States,Non-Government,*
+1225_b,*,53,White,*,*,*,Non-Government,*
+1413_b,*,53,White,*,*,*,Non-Government,*
+1369_b,*,53,White,*,*,*,Non-Government,*
+586_b,*,51-55,White,spouse not present,Higher education,United-States,*,*
+525_b,*,51-55,White,spouse not present,Higher education,United-States,*,*
+1255_b,*,51-55,White,spouse not present,Higher education,United-States,*,*
+1112_b,*,54,White,*,*,United-States,*,*
+1056_b,*,54,White,*,*,United-States,*,*
+1498_b,*,54,White,*,*,United-States,*,*
+180_b,Male,54,White,Married-civ-spouse,*,United-States,Private,*
+205_b,Male,54,White,Married-civ-spouse,*,United-States,Private,*
+911_b,Male,54,White,Married-civ-spouse,*,United-States,Private,*
+887_b,*,54,White,*,*,*,*,*
+991_b,*,54,White,*,*,*,*,*
+947_b,*,54,White,*,*,*,*,*
+704_b,Male,54,White,Married-civ-spouse,*,United-States,Non-Government,*
+762_b,Male,54,White,Married-civ-spouse,*,United-States,Non-Government,*
+262_b,Male,54,White,Married-civ-spouse,*,United-States,Non-Government,*
+1297_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1320_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1205_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1038_b,*,54,White,*,*,United-States,*,*
+669_b,*,54,White,*,*,United-States,*,*
+531_b,*,54,White,*,*,United-States,*,*
+286_b,*,55,White,*,*,United-States,*,*
+1472_b,*,55,White,*,*,United-States,*,*
+726_b,*,55,White,*,*,United-States,*,*
+1457_b,Male,55,White,Married-civ-spouse,*,United-States,*,*
+1164_b,Male,55,White,Married-civ-spouse,*,United-States,*,*
+1440_b,Male,55,White,Married-civ-spouse,*,United-States,*,*
+514_b,*,55,White,*,*,*,Private,*
+884_b,*,55,White,*,*,*,Private,*
+1261_b,*,55,White,*,*,*,Private,*
+224_b,*,55,White,*,*,United-States,Non-Government,*
+989_b,*,55,White,*,*,United-States,Non-Government,*
+436_b,*,55,White,*,*,United-States,Non-Government,*
+1245_b,*,55,White,*,*,*,Non-Government,*
+1049_b,*,55,White,*,*,*,Non-Government,*
+1125_b,*,55,White,*,*,*,Non-Government,*
+932_b,*,55,White,*,*,*,Non-Government,*
+210_b,*,55,White,*,*,*,Non-Government,*
+982_b,*,55,White,*,*,*,Non-Government,*
+1115_b,*,55,White,*,*,*,Non-Government,*
+923_b,*,55,White,*,*,*,Non-Government,*
+130_b,*,51-60,White,*,*,United-States,*,*
+1158_b,*,51-60,White,*,*,United-States,*,*
+671_b,*,51-60,White,*,*,United-States,*,*
+1061_b,Male,56,White,Married-civ-spouse,*,United-States,Non-Government,*
+1342_b,Male,56,White,Married-civ-spouse,*,United-States,Non-Government,*
+26_b,Male,56,White,Married-civ-spouse,*,United-States,Non-Government,*
+813_b,*,56,White,*,*,United-States,*,*
+1178_b,*,56,White,*,*,United-States,*,*
+1176_b,*,56,White,*,*,United-States,*,*
+1385_b,Male,56,*,*,*,United-States,Non-Government,*
+487_b,Male,56,*,*,*,United-States,Non-Government,*
+893_b,Male,56,*,*,*,United-States,Non-Government,*
+268_b,*,56,*,*,High School,United-States,Private,*
+36_b,*,56,*,*,High School,United-States,Private,*
+845_b,*,56,*,*,High School,United-States,Private,*
+1356_b,Male,56,*,*,*,United-States,*,*
+1085_b,Male,56,*,*,*,United-States,*,*
+387_b,Male,56,*,*,*,United-States,*,*
+1062_b,Female,56,White,Divorced,High School,United-States,*,*
+631_b,Female,56,White,Divorced,High School,United-States,*,*
+1332_b,Female,56,White,Divorced,High School,United-States,*,*
+365_b,Male,56-60,White,*,High School,United-States,Non-Government,*
+829_b,Male,56-60,White,*,High School,United-States,Non-Government,*
+1005_b,Male,56-60,White,*,High School,United-States,Non-Government,*
+910_b,*,57,White,*,*,United-States,*,*
+298_b,*,57,White,*,*,United-States,*,*
+492_b,*,57,White,*,*,United-States,*,*
+169_b,*,57,White,*,*,*,*,Nontechnical
+883_b,*,57,White,*,*,*,*,Nontechnical
+644_b,*,57,White,*,*,*,*,Nontechnical
+1220_b,*,57,White,spouse not present,*,United-States,*,*
+476_b,*,57,White,spouse not present,*,United-States,*,*
+743_b,*,57,White,spouse not present,*,United-States,*,*
+1476_b,Male,57,*,*,*,*,*,*
+685_b,Male,57,*,*,*,*,*,*
+559_b,Male,57,*,*,*,*,*,*
+201_b,*,57,White,*,*,United-States,*,*
+1301_b,*,57,White,*,*,United-States,*,*
+68_b,*,57,White,*,*,United-States,*,*
+13_b,Male,57,*,*,*,*,Private,*
+1072_b,Male,57,*,*,*,*,Private,*
+171_b,Male,57,*,*,*,*,Private,*
+834_b,*,56-60,*,*,*,North America,Non-Government,*
+1211_b,*,56-60,*,*,*,North America,Non-Government,*
+998_b,*,56-60,*,*,*,North America,Non-Government,*
+836_b,*,56-60,*,*,*,North America,Non-Government,*
+549_b,*,56-60,*,*,*,North America,Non-Government,*
+18_b,*,58,*,*,Graduate,*,*,*
+1051_b,*,58,*,*,Graduate,*,*,*
+767_b,*,58,*,*,Graduate,*,*,*
+676_b,*,58,White,*,High School,United-States,*,*
+177_b,*,58,White,*,High School,United-States,*,*
+639_b,*,58,White,*,High School,United-States,*,*
+61_b,Male,58,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+1302_b,Male,58,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+389_b,Male,58,White,Married-civ-spouse,Higher education,United-States,Non-Government,*
+85_b,*,56-60,*,*,*,United-States,*,*
+1042_b,*,56-60,*,*,*,United-States,*,*
+694_b,*,56-60,*,*,*,United-States,*,*
+93_b,*,59,White,Married-civ-spouse,Undergraduate,*,Non-Government,*
+1250_b,*,59,White,Married-civ-spouse,Undergraduate,*,Non-Government,*
+96_b,*,59,White,Married-civ-spouse,Undergraduate,*,Non-Government,*
+1006_b,*,59,*,*,*,United-States,*,*
+751_b,*,59,*,*,*,United-States,*,*
+617_b,*,59,*,*,*,United-States,*,*
+361_b,*,59,*,*,High School,United-States,*,*
+215_b,*,59,*,*,High School,United-States,*,*
+333_b,*,59,*,*,High School,United-States,*,*
+15_b,*,56-60,White,*,*,United-States,*,Nontechnical
+122_b,*,56-60,White,*,*,United-States,*,Nontechnical
+961_b,*,56-60,White,*,*,United-States,*,Nontechnical
+33_b,*,60,*,*,*,North America,Private,*
+1002_b,*,60,*,*,*,North America,Private,*
+182_b,*,60,*,*,*,North America,Private,*
+701_b,*,60,White,Married-civ-spouse,*,United-States,Private,*
+757_b,*,60,White,Married-civ-spouse,*,United-States,Private,*
+1083_b,*,60,White,Married-civ-spouse,*,United-States,Private,*
+935_b,*,60,White,*,*,United-States,Private,*
+312_b,*,60,White,*,*,United-States,Private,*
+602_b,*,60,White,*,*,United-States,Private,*
+1414_b,*,60,White,*,*,United-States,Non-Government,*
+529_b,*,60,White,*,*,United-States,Non-Government,*
+1484_b,*,60,White,*,*,United-States,Non-Government,*
+1497_b,Male,61,*,*,*,*,Non-Government,*
+936_b,Male,61,*,*,*,*,Non-Government,*
+946_b,Male,61,*,*,*,*,Non-Government,*
+413_b,*,61,White,*,*,United-States,*,Nontechnical
+1159_b,*,61,White,*,*,United-States,*,Nontechnical
+1263_b,*,61,White,*,*,United-States,*,Nontechnical
+1004_b,*,61,*,*,*,United-States,Private,Other
+50_b,*,61,*,*,*,United-States,Private,Other
+930_b,*,61,*,*,*,United-States,Private,Other
+1254_b,*,61,*,*,*,United-States,Private,Other
+665_b,*,61,*,*,*,United-States,Private,Other
+1488_b,*,61,*,*,*,United-States,Private,*
+1434_b,*,61,*,*,*,United-States,Private,*
+581_b,*,61,*,*,*,United-States,Private,*
+1166_b,Male,61,White,Married-civ-spouse,*,United-States,Non-Government,*
+192_b,Male,61,White,Married-civ-spouse,*,United-States,Non-Government,*
+1251_b,Male,61,White,Married-civ-spouse,*,United-States,Non-Government,*
+440_b,*,62,White,*,*,North America,Private,*
+120_b,*,62,White,*,*,North America,Private,*
+228_b,*,62,White,*,*,North America,Private,*
+864_b,Male,62,White,*,*,United-States,*,*
+837_b,Male,62,White,*,*,United-States,*,*
+1448_b,Male,62,White,*,*,United-States,*,*
+842_b,*,61-65,White,Married-civ-spouse,Higher education,United-States,*,*
+1206_b,*,61-65,White,Married-civ-spouse,Higher education,United-States,*,*
+572_b,*,61-65,White,Married-civ-spouse,Higher education,United-States,*,*
+1299_b,*,63,White,*,*,United-States,*,*
+354_b,*,63,White,*,*,United-States,*,*
+1035_b,*,63,White,*,*,United-States,*,*
+425_b,*,63,*,*,*,United-States,Non-Government,*
+1383_b,*,63,*,*,*,United-States,Non-Government,*
+891_b,*,63,*,*,*,United-States,Non-Government,*
+765_b,*,63,White,*,*,United-States,*,Nontechnical
+775_b,*,63,White,*,*,United-States,*,Nontechnical
+708_b,*,63,White,*,*,United-States,*,Nontechnical
+828_b,*,64,White,spouse not present,High School,United-States,*,Other
+1361_b,*,64,White,spouse not present,High School,United-States,*,Other
+736_b,*,64,White,spouse not present,High School,United-States,*,Other
+295_b,*,64,White,*,Higher education,North America,*,*
+1468_b,*,64,White,*,Higher education,North America,*,*
+1260_b,*,64,White,*,Higher education,North America,*,*
+83_b,*,64,White,*,*,United-States,Non-Government,*
+1156_b,*,64,White,*,*,United-States,Non-Government,*
+503_b,*,64,White,*,*,United-States,Non-Government,*
+1443_b,*,64,*,*,High School,United-States,Local-gov,*
+702_b,*,64,*,*,High School,United-States,Local-gov,*
+768_b,*,64,*,*,High School,United-States,Local-gov,*
+967_b,Male,61-65,White,Married-civ-spouse,*,United-States,Non-Government,*
+1019_b,Male,61-65,White,Married-civ-spouse,*,United-States,Non-Government,*
+1167_b,Male,61-65,White,Married-civ-spouse,*,United-States,Non-Government,*
+209_b,*,65,White,*,*,United-States,*,*
+838_b,*,65,White,*,*,United-States,*,*
+449_b,*,65,White,*,*,United-States,*,*
+92_b,*,61-70,White,*,*,United-States,Non-Government,*
+605_b,*,61-70,White,*,*,United-States,Non-Government,*
+724_b,*,61-70,White,*,*,United-States,Non-Government,*
+545_b,*,61-70,White,*,*,United-States,Non-Government,*
+160_b,*,61-70,White,*,*,United-States,Non-Government,*
+344_b,*,66,White,*,*,North America,Private,*
+640_b,*,66,White,*,*,North America,Private,*
+500_b,*,66,White,*,*,North America,Private,*
+1365_b,*,67,White,*,*,United-States,*,*
+173_b,*,67,White,*,*,United-States,*,*
+197_b,*,67,White,*,*,United-States,*,*
+502_b,Male,68,White,*,*,United-States,Non-Government,*
+443_b,Male,68,White,*,*,United-States,Non-Government,*
+439_b,Male,68,White,*,*,United-States,Non-Government,*
+981_b,*,66-70,White,*,*,United-States,Non-Government,*
+435_b,*,66-70,White,*,*,United-States,Non-Government,*
+927_b,*,66-70,White,*,*,United-States,Non-Government,*
+53_b,*,66-70,White,Married-civ-spouse,Higher education,United-States,*,*
+1144_b,*,66-70,White,Married-civ-spouse,Higher education,United-States,*,*
+1306_b,*,66-70,White,Married-civ-spouse,Higher education,United-States,*,*
+45_b,*,70,*,*,*,United-States,*,Other
+1010_b,*,70,*,*,*,United-States,*,Other
+909_b,*,70,*,*,*,United-States,*,Other
+1349_b,*,61-80,*,*,*,United-States,Non-Government,*
+211_b,*,61-80,*,*,*,United-States,Non-Government,*
+390_b,*,61-80,*,*,*,United-States,Non-Government,*
+1489_b,*,71-75,White,*,*,United-States,*,*
+1191_b,*,71-75,White,*,*,United-States,*,*
+325_b,*,71-75,White,*,*,United-States,*,*
+546_b,*,71-75,*,*,High School,United-States,*,*
+271_b,*,71-75,*,*,High School,United-States,*,*
+363_b,*,71-75,*,*,High School,United-States,*,*
+986_b,*,74,*,*,Higher education,United-States,*,*
+713_b,*,74,*,*,Higher education,United-States,*,*
+1098_b,*,74,*,*,Higher education,United-States,*,*
+1401_b,*,75,White,*,*,United-States,Non-Government,*
+540_b,*,75,White,*,*,United-States,Non-Government,*
+1424_b,*,75,White,*,*,United-States,Non-Government,*
+497_b,*,71-80,White,*,High School,United-States,*,*
+1077_b,*,71-80,White,*,High School,United-States,*,*
+682_b,*,71-80,White,*,High School,United-States,*,*
+1161_b,*,*,*,*,*,United-States,*,*
+1227_b,*,*,*,*,*,United-States,*,*
+1370_b,*,*,*,*,*,United-States,*,*
+481_b,*,90,*,*,Undergraduate,North America,Private,*
+1355_b,*,90,*,*,Undergraduate,North America,Private,*
+822_b,*,90,*,*,Undergraduate,North America,Private,*

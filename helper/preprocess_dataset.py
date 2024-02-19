@@ -1,8 +1,18 @@
 import glob
 import os
 import random
-
 import pandas as pd
+
+
+def generate_dataset(adult_file, febrl_file):
+    adult_dataset = pd.read_csv(adult_file)
+    febrl_dataset = pd.read_csv(febrl_file)
+
+    adult_dataset = adult_dataset.head(10000)
+    febrl_dataset = febrl_dataset.drop(columns=['rec_id', 'date_of_birth', 'age', 'phone_number', 'blocking_number'])
+
+    dataset_org = pd.concat([adult_dataset.reset_index(drop=True), febrl_dataset.reset_index(drop=True)], axis=1)
+    dataset_org.to_csv('../dataset/dataset_preparation/dataset_org.csv', index=False)
 
 
 def preprocess_dataset(file_path, output_file_path):
@@ -56,6 +66,7 @@ def split_csv(file_path, output_file_dir_path):
 
     dataset_A.to_csv(output_file_dir_path + 'dataset_A.csv', index=False)
     dataset_B.to_csv(output_file_dir_path + 'dataset_B.csv', index=False)
+    df.to_csv(output_file_dir_path + 'dataset.csv', index=False)
     all_record_linkage.to_csv(output_file_dir_path + 'all_record_linkage.csv', index=False)
 
 
@@ -67,7 +78,7 @@ def sort_hierarchy_set_index(input_file_path, output_file_path):
     df_sorted.to_csv(output_file_path, index=False, header=False)
 
 
-def random_modify_data(file_path, output_file_path, all_cols_to_modify, portion_row_to_modify=0.2, num_col_to_modify=3):
+def random_modify_data(file_path, all_cols_to_modify, portion_row_to_modify=0.2, num_col_to_modify=3):
     df = pd.read_csv(file_path)
     num_rows = df.shape[0]
     rows_to_modify = random.sample(range(num_rows), int(num_rows * portion_row_to_modify))
@@ -93,22 +104,30 @@ def random_modify_data(file_path, output_file_path, all_cols_to_modify, portion_
                 index_to_add = random.randint(0, len(value))
                 value = value[:index_to_add] + chr(random.randint(97, 122)) + value[index_to_add:]
             df.at[row_index, column] = value
-    df.to_csv(output_file_path, index=False)
+    df.to_csv(file_path, index=False)
 
 
 if __name__ == '__main__':
-    original_file_path = '../dataset/dataset.csv'
-    preprocessed_file_path = '../dataset/preprocessed_dataset.csv'
+    adult_file_path = '../dataset/dataset_preparation/adult.csv'
+    febrl_file_path = '../dataset/dataset_preparation/febrl.csv'
+    original_file_path = '../dataset/dataset_preparation/dataset_org.csv'
+    preprocessed_file_path = '../dataset/dataset_preparation/preprocessed_dataset.csv'
+    modified_file_path = '../dataset/dataset_preparation/modified_dataset.csv'
     output_file_dir_path = '../dataset/'
-    original_hierarchy_file_dir_path = '../dataset/hierarchy/old/'
-    preprocessed_hierarchy_file_dir_path = '../dataset/hierarchy/'
 
-    # preprocess_dataset(original_file_path, preprocessed_file_path)
+    generate_dataset(adult_file_path, febrl_file_path)
+    preprocess_dataset(original_file_path, preprocessed_file_path)
+    split_csv(preprocessed_file_path, output_file_dir_path)
 
-    # random_modify_data(preprocessed_file_path, output_file_dir_path+'dataset_C_10000_modified.csv', ['given_name', 'surname', 'address_1', 'address_2', 'suburb', 'state'])
+    dataset_A_file_path = '../dataset/dataset_A.csv'
+    dataset_B_file_path = '../dataset/dataset_B.csv'
+    random_modify_data(dataset_A_file_path, ['given_name', 'surname', 'address_1', 'address_2', 'suburb', 'state'])
+    random_modify_data(dataset_B_file_path, ['given_name', 'surname', 'address_1', 'address_2', 'suburb', 'state'])
 
-    split_csv(original_file_path, output_file_dir_path)
 
+
+    # original_hierarchy_file_dir_path = '../dataset/hierarchy/old/'
+    # preprocessed_hierarchy_file_dir_path = '../dataset/hierarchy/'
     # files = glob.glob(os.path.join(original_hierarchy_file_dir_path, '*.csv'))
     # for file_path in files:
     #     file_name = os.path.basename(file_path)

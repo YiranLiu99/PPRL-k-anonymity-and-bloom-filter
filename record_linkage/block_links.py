@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import recordlinkage as rl
 from recordlinkage.base import BaseIndexAlgorithm
@@ -26,7 +27,7 @@ def find_candidate_links(partitions_A, partitions_B, hierarchy_trees, qi_list):
     # q quasi-identifiers in qi_list,
     # h is the height of the hierarchy tree.
     # h, q, k << n
-    # O(n/k * n/k * q * h) = O(n^2)
+    # O(n/k * n/k * q * h) = O(n^2/k^2)
     candidate_links = []
     for index_a, partition_a in partitions_A.items():
         for index_b, partition_b in partitions_B.items():
@@ -77,6 +78,8 @@ def block_data(anonymized_data_path_A, anonymized_data_path_B, hierarchy_file_di
     :param qi_list:
     :return: candidate_links, candidate_record_set_A, candidate_record_set_B
     """
+    start_time = time.time()
+    print(f'Start finding candidate links for {anonymized_data_path_A} and {anonymized_data_path_B}')
     df_a = pd.read_csv(anonymized_data_path_A, index_col='index')
     df_b = pd.read_csv(anonymized_data_path_B, index_col='index')
 
@@ -86,8 +89,8 @@ def block_data(anonymized_data_path_A, anonymized_data_path_B, hierarchy_file_di
     # in this way, we can reduce the number of records to be compared.
     partition_dict_A = split_data_to_partitions(df_a, qi_list)
     partition_dict_B = split_data_to_partitions(df_b, qi_list)
-    print(len(partition_dict_A))
-    print(len(partition_dict_B))
+    print(f'{len(partition_dict_A)} partitions in dataset A')
+    print(f'{len(partition_dict_B)} partitions in dataset B')
 
     # Find candidate links.
     # If two records have the same value in each attribute, or have a covered relationship in each attribute, then they are candidate link.
@@ -103,12 +106,16 @@ def block_data(anonymized_data_path_A, anonymized_data_path_B, hierarchy_file_di
     candidate_record_set_A = set(candidate_links.get_level_values('index_a'))
     candidate_record_set_B = set(candidate_links.get_level_values('index_b'))
 
+    print(f'Candidate links found for {anonymized_data_path_A} and {anonymized_data_path_B}')
     print(candidate_links)
-    print(candidate_record_set_A)
-    print(candidate_record_set_B)
-    print(len(candidate_record_set_A))
-    print(len(candidate_record_set_B))
+    # print(candidate_record_set_A)
+    # print(candidate_record_set_B)
+    print(f'{len(candidate_record_set_A)} candidate records for dataset A')
+    print(f'{len(candidate_record_set_B)} candidate records for dataset B')
 
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print("Run time: " + str(elapsed_time) + " seconds")
     return candidate_links, candidate_record_set_A, candidate_record_set_B
 
 
